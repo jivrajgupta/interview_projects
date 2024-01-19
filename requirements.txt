@@ -7,5 +7,6 @@ pandasql
 sqlalchemy 
 mysqlclient
 pyyaml
+python-dotenv
 
 -e .
