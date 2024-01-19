@@ -18,6 +18,8 @@ jobs:
       DB_PASSWORD : 'pscale_pw_qCX69h1BlqRo2SsqvxwbQPHcab625HJP5hLIVR5qytw'
       DB_NAME : 'guptaj'
       remote_server_uri : 'https://dagshub.com/jivrajgupta/end_to_end.mlflow'
+      CA_CERT_PATH: cacert.pem
+
 
     steps:
     - name: Checkout repository
@@ -44,3 +46,4 @@ jobs:
         DB_PASSWORD : ${{ env.DB_PASSWORD }}
         DB_NAME : ${{ env.DB_NAME }}
         remote_server_uri : ${{ env.remote_server_uri}}
+        CA_CERT_PATH : ${{ env.CA_CERT_PATH}}
