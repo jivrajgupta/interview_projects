@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+pandasql
+sqlalchemy == 1.4.32
+mysqlclient
+pyyaml
+xgboost
+python-dotenv
+mlflow
+
+-e .
