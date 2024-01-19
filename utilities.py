@@ -13,7 +13,7 @@ connection_url = URL.create(drivername='mysql',
                             password=os.getenv("DB_PASSWORD"),
                             host=os.getenv("DB_HOST"),
                             database=os.getenv("DB_NAME"),
-                            query={"ssl_ca":r"C:\Users\jivraj\Downloads\cacert.pem"})
+                            query={"ssl_ca": {os.getenv("CA_CERT_PATH")}})
 engine = create_engine(connection_url)
 
 def dataframe_to_sql( dataframe , table_name, version, new_table = 'NO'):
