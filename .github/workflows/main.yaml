@@ -32,24 +32,15 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-      env:
-        MLFLOW_TRACKING_URI : https://dagshub.com/jivrajgupta/end_to_end.mlflow
-        MLFLOW_TRACKING_USERNAME : jivrajgupta
-        MLFLOW_TRACKING_PASSWORD : eb0a9d1b33d66e01b21f5ec4b8abc153450d7fb5
-        DB_HOST : 'aws.connect.psdb.cloud'
-        DB_USERNAME : 'pd39rlo9gut5zi60nxne'
-        DB_PASSWORD : 'pscale_pw_qCX69h1BlqRo2SsqvxwbQPHcab625HJP5hLIVR5qytw'
-        DB_NAME : 'guptaj'
-        remote_server_uri : 'https://dagshub.com/jivrajgupta/end_to_end.mlflow
-
+        
     - name: Run main.py
       run: python main.py
       env:
-        MLFLOW_TRACKING_URI : https://dagshub.com/jivrajgupta/end_to_end.mlflow
-        MLFLOW_TRACKING_USERNAME : jivrajgupta
-        MLFLOW_TRACKING_PASSWORD : eb0a9d1b33d66e01b21f5ec4b8abc153450d7fb5
-        DB_HOST : 'aws.connect.psdb.cloud'
-        DB_USERNAME : 'pd39rlo9gut5zi60nxne'
-        DB_PASSWORD : 'pscale_pw_qCX69h1BlqRo2SsqvxwbQPHcab625HJP5hLIVR5qytw'
-        DB_NAME : 'guptaj'
-        remote_server_uri : 'https://dagshub.com/jivrajgupta/end_to_end.mlflow
+        MLFLOW_TRACKING_URI : ${{ env.MLFLOW_TRACKING_URI }}
+        MLFLOW_TRACKING_USERNAME : ${{ env.MLFLOW_TRACKING_USERNAME }}
+        MLFLOW_TRACKING_PASSWORD : ${{ env.MLFLOW_TRACKING_PASSWORD }}
+        DB_HOST : ${{ env.DB_HOST }}
+        DB_USERNAME : ${{ env.DB_USERNAME}}
+        DB_PASSWORD : ${{ env.DB_PASSWORD }}
+        DB_NAME : ${{ env.DB_NAME }}
+        remote_server_uri : ${{ env.remote_server_uri}}
