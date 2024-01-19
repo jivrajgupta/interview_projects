@@ -1,7 +1,7 @@
 matplotlib
 mlflow
 numpy
-pandas =1.5.3
+pandas >= 1.6
 pandasql
 python-dotenv
 PyYAML
