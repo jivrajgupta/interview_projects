@@ -9,5 +9,6 @@ mysqlclient
 pyyaml
 xgboost
 python-dotenv
+mlflow
 
 -e .
