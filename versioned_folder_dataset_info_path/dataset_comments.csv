@@ -1,0 +1,6 @@
+Comments,Value,datetime_stamp,version,new_column_1,new_column_2
+orignal_Columns_Under_Consideration,33,2024-01-19,1,jivraj1,jivraj_2
+Categorical_Columns_Under_Consideration,22,2024-01-19,1,jivraj1,jivraj_2
+Numerical_Columns_Under_Consideration,3,2024-01-19,1,jivraj1,jivraj_2
+DaTetime_Columns_Under_Consideration,8,2024-01-19,1,jivraj1,jivraj_2
+Target_Column_Under_Consideration,is_canceled,2024-01-19,1,jivraj1,jivraj_2

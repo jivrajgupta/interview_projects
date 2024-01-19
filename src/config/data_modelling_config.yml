@@ -1,0 +1,4 @@
+no_of_folds : 10
+target_column : 'is_canceled'
+models :
+    model_list : ['logistic_regression','random_forest','xgboost','Decision_trees']

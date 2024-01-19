@@ -1,0 +1,9 @@
+,index,is_canceled,lead_time,days_in_waiting_list,adr,hotel_count_encoded,stays_in_weekend_nights_count_encoded,stays_in_week_nights_count_encoded,adults_count_encoded,children_count_encoded,babies_count_encoded,meal_count_encoded,country_count_encoded,market_segment_count_encoded,distribution_channel_count_encoded,is_repeated_guest_count_encoded,previous_cancellations_count_encoded,previous_bookings_not_canceled_count_encoded,reserved_room_type_count_encoded,assigned_room_type_count_encoded,booking_changes_count_encoded,deposit_type_count_encoded,agent_count_encoded,customer_type_count_encoded,required_car_parking_spaces_count_encoded,total_of_special_requests_count_encoded
+54,3796.0,1.0,2.0,0,36.0,1.0,0.75,0.25,1.0,0.75,1.0,0.375,0.875,0.375,0.75,1.0,1.0,1.0,0.625,0.125,0.875,1.0,0.125,0.25,0.875,0.875
+248,3779.0,1.0,5.0,0,36.0,1.0,0.125,0.125,1.0,0.75,1.0,0.125,0.875,0.5,0.125,1.0,1.0,1.0,0.625,0.5,0.875,1.0,0.25,0.75,0.875,0.875
+408,3648.0,0.0,165.0,0,40.0,1.0,0.75,0.375,1.0,0.75,1.0,0.25,0.875,0.5,0.75,1.0,1.0,1.0,0.625,0.5,0.875,1.0,0.375,0.75,0.875,0.875
+562,3677.0,0.0,165.0,0,52.2,1.0,0.75,0.375,1.0,0.75,1.0,0.25,0.875,0.5,0.75,1.0,1.0,1.0,0.625,0.5,0.875,1.0,0.25,0.75,0.875,0.875
+583,3825.0,0.0,23.0,0,48.0,1.0,0.75,0.125,1.0,0.75,1.0,0.375,0.125,0.125,0.125,1.0,1.0,1.0,0.25,0.25,0.875,1.0,0.375,0.75,0.875,0.875
+627,3811.0,1.0,103.0,0,40.0,1.0,0.125,0.125,1.0,0.125,1.0,0.375,0.875,0.375,0.75,1.0,1.0,1.0,0.125,0.125,0.875,1.0,0.375,0.75,0.875,0.875
+793,3156.0,1.0,36.0,0,82.0,1.0,0.75,0.25,1.0,0.75,1.0,0.25,0.875,0.5,0.75,1.0,1.0,1.0,0.625,0.5,0.875,1.0,0.125,0.25,0.125,0.125
+844,9526.0,1.0,35.0,0,101.0,1.0,0.75,0.375,1.0,0.125,1.0,0.25,0.875,0.375,0.75,1.0,1.0,1.0,0.25,0.25,0.125,1.0,0.125,0.75,0.875,0.875

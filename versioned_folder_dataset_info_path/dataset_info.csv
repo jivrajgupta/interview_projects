@@ -1,0 +1,6 @@
+Comments,Value
+orignal_Columns_Under_Consideration,33
+Categorical_Columns_Under_Consideration,24
+Numerical_Columns_Under_Consideration,3
+DaTetime_Columns_Under_Consideration,5
+Target_Column_Under_Consideration,is_canceled

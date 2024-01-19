@@ -1,0 +1,3 @@
+data_ingestion_config_path : "src/config/data_ingestion_config.yml"
+data_modelling_config_path : "src/config/data_modelling_config.yml"
+data_transformation_config_path : "src/config/data_transformation_config.yml"

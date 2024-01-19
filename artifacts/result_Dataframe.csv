@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support,model_name,dataframe_name,accuracy,datetime_stamp,version
+0,1.0,1.0,1.0,61.0,logistic_regression,dataframe_1,1.0,2023-12-17,3
+1,1.0,1.0,1.0,28.0,logistic_regression,dataframe_1,1.0,2023-12-17,3
+2,1.0,1.0,1.0,89.0,logistic_regression,dataframe_1,1.0,2023-12-17,3
+3,1.0,1.0,1.0,61.0,random_forest,dataframe_1,1.0,2023-12-17,3
+4,1.0,1.0,1.0,28.0,random_forest,dataframe_1,1.0,2023-12-17,3
+5,1.0,1.0,1.0,89.0,random_forest,dataframe_1,1.0,2023-12-17,3

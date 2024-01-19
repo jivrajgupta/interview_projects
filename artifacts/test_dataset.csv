@@ -1,0 +1,1001 @@
+index,hotel,is_canceled,lead_time,arrival_date_year,arrival_date_month,arrival_date_week_number,arrival_date_day_of_month,stays_in_weekend_nights,stays_in_week_nights,adults,children,babies,meal,country,market_segment,distribution_channel,is_repeated_guest,previous_cancellations,previous_bookings_not_canceled,reserved_room_type,assigned_room_type,booking_changes,deposit_type,agent,company,days_in_waiting_list,customer_type,adr,required_car_parking_spaces,total_of_special_requests,reservation_status,reservation_status_date
+7016.0,Resort Hotel,1.0,144.0,2016.0,July,29.0,16.0,2.0,5.0,3.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,75.0,,0,Contract,58.95,0,1,Check-Out,6/13/2016
+5448.0,Resort Hotel,1.0,108.0,2016.0,April,18.0,29.0,2.0,2.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,48.0,0,1,Canceled,3/15/2016
+2495.0,Resort Hotel,1.0,33.0,2015.0,October,43.0,19.0,1.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,250.0,,0,Transient,133.0,1,0,Check-Out,9/13/2015
+5506.0,Resort Hotel,1.0,22.0,2016.0,April,18.0,30.0,2.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,4/3/2016
+5285.0,Resort Hotel,1.0,143.0,2016.0,April,18.0,24.0,2.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,54.9,0,1,Check-Out,3/30/2016
+7104.0,Resort Hotel,1.0,169.0,2016.0,July,30.0,21.0,2.0,5.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,100.8,0,3,Canceled,11/17/2015
+1340.0,Resort Hotel,1.0,54.0,2015.0,August,35.0,24.0,2.0,5.0,3.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,E,E,2.0,No Deposit,240.0,,0,Transient,135.0,0,1,Canceled,6/15/2015
+5966.0,Resort Hotel,1.0,124.0,2016.0,May,21.0,18.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Transient,58.95,0,0,Check-Out,4/28/2016
+7127.0,Resort Hotel,1.0,142.0,2016.0,July,30.0,23.0,2.0,4.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,140.0,0,1,Canceled,12/30/2015
+1203.0,Resort Hotel,1.0,24.0,2015.0,August,34.0,18.0,0.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,242.0,,0,Transient,169.0,1,1,Check-Out,7/17/2015
+3514.0,Resort Hotel,0.0,67.0,2015.0,December,52.0,21.0,1.0,5.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,42.0,1,0,Check-Out,11/1/2015
+8251.0,Resort Hotel,1.0,139.0,2016.0,September,39.0,20.0,0.0,4.0,3.0,1.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,216.0,0,1,Check-Out,8/13/2016
+6036.0,Resort Hotel,0.0,248.0,2016.0,May,21.0,21.0,4.0,6.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,253.0,,0,Transient,54.0,0,1,Canceled,3/3/2016
+6417.0,Resort Hotel,1.0,57.0,2016.0,June,24.0,10.0,0.0,2.0,2.0,0.0,0.0,BB,NLD,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,115.0,0,0,Canceled,4/20/2016
+4763.0,Resort Hotel,0.0,169.0,2016.0,March,14.0,31.0,0.0,3.0,1.0,0.0,0.0,BB,BEL,Groups,Direct,0.0,0.0,0.0,A,A,2.0,Refundable,,,0,Transient,50.0,0,0,Canceled,12/11/2015
+6797.0,Resort Hotel,0.0,236.0,2016.0,July,27.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,129.29,0,0,Canceled,4/26/2016
+1346.0,Resort Hotel,1.0,74.0,2015.0,August,35.0,25.0,1.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,141.33,0,1,Canceled,6/22/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,93.0,0,1,Canceled,12/31/2016
+7815.0,Resort Hotel,1.0,115.0,2016.0,August,36.0,28.0,2.0,1.0,2.0,1.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,108.0,0,0,Canceled,6/27/2016
+8922.0,Resort Hotel,1.0,386.0,2016.0,October,43.0,20.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,,223.0,0,Transient-Party,60.0,0,0,Check-Out,9/18/2016
+,,,,,,,,,,,,,,,,,,,,,,,,96.0,,0,Transient-Party,30.0,0,2,Canceled,1/17/2017
+3013.0,Resort Hotel,0.0,60.0,2015.0,November,46.0,11.0,0.0,4.0,1.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,314.0,,0,Transient,48.74,0,0,Check-Out,10/14/2015
+5404.0,Resort Hotel,1.0,168.0,2016.0,April,18.0,28.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,68.0,,0,Transient,84.0,0,0,Canceled,1/22/2016
+,,,,,,,,,,,,,,,,,,,,,,,,38.0,,0,Transient,72.0,0,0,Canceled,10/26/2016
+5711.0,Resort Hotel,1.0,69.0,2016.0,May,20.0,12.0,0.0,2.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,3.0,No Deposit,273.0,,0,Transient-Party,74.45,0,0,Check-Out,4/17/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,55.8,0,2,Canceled,8/20/2016
+2727.0,Resort Hotel,0.0,0.0,2015.0,October,44.0,28.0,0.0,1.0,1.0,0.0,0.0,BB,DEU,Corporate,Corporate,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,76.3,0,1,Check-Out,9/29/2015
+9007.0,Resort Hotel,1.0,124.0,2016.0,October,43.0,22.0,2.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,D,D,1.0,No Deposit,315.0,,0,Transient,51.85,0,0,Canceled,3/16/2016
+7354.0,Resort Hotel,1.0,20.0,2016.0,August,32.0,5.0,0.0,2.0,2.0,2.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,72.0,0,1,No-Show,6/19/2016
+9611.0,Resort Hotel,1.0,19.0,2016.0,December,52.0,20.0,0.0,1.0,2.0,0.0,0.0,BB,ITA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,65.0,0,1,Canceled,9/17/2016
+1085.0,Resort Hotel,1.0,15.0,2015.0,August,33.0,13.0,2.0,3.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,243.0,,0,Transient,123.0,0,1,Check-Out,7/19/2015
+3442.0,Resort Hotel,0.0,35.0,2015.0,December,50.0,7.0,1.0,0.0,2.0,0.0,0.0,BB,POL,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,250.0,,0,Transient,66.0,1,0,Check-Out,10/25/2015
+5389.0,Resort Hotel,1.0,113.0,2016.0,April,18.0,28.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,68.0,,0,Transient,84.0,0,0,Canceled,1/22/2016
+5713.0,Resort Hotel,1.0,468.0,2016.0,May,20.0,12.0,0.0,2.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,273.0,,0,Transient-Party,45.9,0,0,Check-Out,4/17/2016
+9092.0,Resort Hotel,1.0,206.0,2016.0,October,44.0,27.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,D,D,3.0,No Deposit,96.0,,0,Transient-Party,70.5,0,1,Check-Out,9/25/2016
+4101.0,Resort Hotel,1.0,140.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,68.45,0,2,Check-Out,12/8/2015
+6353.0,Resort Hotel,1.0,290.0,2016.0,June,23.0,4.0,4.0,6.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Transient,74.76,0,1,Check-Out,5/10/2016
+1015.0,Resort Hotel,1.0,63.0,2015.0,August,33.0,10.0,1.0,4.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,98.0,0,0,Check-Out,7/12/2015
+4737.0,Resort Hotel,0.0,169.0,2016.0,March,14.0,31.0,0.0,3.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,C,1.0,Refundable,15.0,,0,Transient,29.0,0,0,Canceled,12/30/2015
+7394.0,Resort Hotel,1.0,290.0,2016.0,August,33.0,7.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,108.17,0,1,Canceled,6/9/2016
+6311.0,Resort Hotel,1.0,20.0,2016.0,June,23.0,3.0,0.0,2.0,2.0,2.0,0.0,BB,ARG,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/4/2016
+799.0,Resort Hotel,0.0,3.0,2015.0,July,31.0,30.0,0.0,3.0,3.0,1.0,0.0,HB,PRT,Direct,Direct,0.0,0.0,0.0,G,G,0.0,No Deposit,241.0,,0,Transient,108.8,0,1,Canceled,6/19/2015
+9126.0,Resort Hotel,1.0,131.0,2016.0,October,44.0,28.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient-Party,111.14,0,0,Canceled,7/16/2016
+2277.0,Resort Hotel,0.0,29.0,2015.0,October,41.0,8.0,1.0,3.0,2.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,186.0,0,2,Canceled,8/18/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,3,Canceled,10/28/2016
+803.0,Resort Hotel,0.0,52.0,2015.0,July,31.0,30.0,0.0,3.0,2.0,2.0,0.0,FB,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,C,C,0.0,No Deposit,250.0,,0,Transient,137.0,0,1,Check-Out,7/7/2015
+5583.0,Resort Hotel,1.0,187.0,2016.0,May,19.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,75.0,0,1,Check-Out,4/6/2016
+4229.0,Resort Hotel,0.0,123.0,2016.0,February,9.0,27.0,1.0,1.0,2.0,0.0,0.0,FB,ESP,Groups,Direct,0.0,0.0,0.0,A,C,0.0,No Deposit,6.0,,0,Transient,29.0,1,0,Check-Out,12/18/2015
+2524.0,Resort Hotel,1.0,106.0,2015.0,October,43.0,20.0,0.0,5.0,2.0,2.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,G,G,1.0,No Deposit,240.0,,0,Transient,110.75,0,0,Canceled,9/9/2015
+3068.0,Resort Hotel,0.0,33.0,2015.0,November,46.0,12.0,0.0,2.0,1.0,0.0,0.0,BB,ESP,Corporate,Corporate,0.0,0.0,0.0,A,F,4.0,No Deposit,134.0,,0,Transient,92.0,0,0,Canceled,8/14/2015
+4487.0,Resort Hotel,1.0,93.0,2016.0,March,13.0,20.0,2.0,2.0,3.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,95.07,0,1,Check-Out,1/3/2016
+9048.0,Resort Hotel,1.0,8.0,2016.0,October,44.0,25.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,66.0,0,0,Canceled,10/14/2015
+5757.0,Resort Hotel,1.0,236.0,2016.0,May,20.0,12.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,52.2,0,2,Check-Out,4/18/2016
+8891.0,Resort Hotel,1.0,116.0,2016.0,October,43.0,18.0,0.0,4.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Contract,53.85,0,0,Check-Out,9/26/2016
+3796.0,Resort Hotel,1.0,2.0,2016.0,January,2.0,8.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,324.0,324.0,0,Transient,36.0,0,0,Check-Out,11/14/2015
+8702.0,Resort Hotel,0.0,337.0,2016.0,October,42.0,9.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,81.0,0,2,Canceled,12/31/2015
+3803.0,Resort Hotel,0.0,169.0,2016.0,January,2.0,8.0,2.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,281.0,,0,Transient-Party,40.0,0,0,Canceled,10/10/2015
+,,,,,,,,,,,,,,,,,,,,,,,,6.0,,0,Transient,39.6,0,1,Canceled,10/3/2016
+3309.0,Resort Hotel,1.0,66.0,2015.0,December,49.0,5.0,1.0,1.0,1.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,66.0,0,0,Canceled,8/20/2015
+3356.0,Resort Hotel,1.0,44.0,2015.0,December,49.0,5.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,72.0,1,1,Check-Out,10/25/2015
+1952.0,Resort Hotel,1.0,68.0,2015.0,September,39.0,23.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Transient,101.65,0,0,Check-Out,8/24/2015
+8730.0,Resort Hotel,1.0,364.0,2016.0,October,42.0,12.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,161.75,0,0,Check-Out,9/8/2016
+6841.0,Resort Hotel,0.0,273.0,2016.0,July,28.0,5.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,5/30/2016
+871.0,Resort Hotel,1.0,2.0,2015.0,August,32.0,2.0,2.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,240.0,,0,Transient,110.7,0,1,Canceled,4/22/2015
+2079.0,Resort Hotel,0.0,48.0,2015.0,September,40.0,30.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,138.79,0,0,Canceled,8/13/2015
+8951.0,Resort Hotel,1.0,164.0,2016.0,October,43.0,21.0,2.0,2.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,9/20/2016
+3517.0,Resort Hotel,1.0,94.0,2015.0,December,52.0,21.0,3.0,6.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,0.0,0,0,Check-Out,10/30/2015
+,,,,,,,,,,,,,,,,,,,,,,,,,308.0,0,Transient-Party,180.0,0,0,Canceled,12/20/2016
+6995.0,Resort Hotel,1.0,83.0,2016.0,July,29.0,16.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,40.0,,0,Contract,52.58,0,0,Check-Out,6/5/2016
+3640.0,Resort Hotel,0.0,101.0,2015.0,December,53.0,28.0,4.0,10.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,43.2,1,1,Check-Out,11/5/2015
+6087.0,Resort Hotel,0.0,223.0,2016.0,May,22.0,24.0,2.0,6.0,1.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,2.0,No Deposit,,,0,Transient,65.0,0,0,Canceled,1/18/2016
+1563.0,Resort Hotel,1.0,77.0,2015.0,September,36.0,4.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,,,0,Transient,250.33,0,2,Check-Out,8/2/2015
+4334.0,Resort Hotel,1.0,162.0,2016.0,March,10.0,4.0,6.0,15.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient-Party,47.6,0,3,Check-Out,12/27/2015
+3658.0,Resort Hotel,0.0,165.0,2015.0,December,53.0,30.0,0.0,4.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,40.0,0,0,Check-Out,11/6/2015
+3691.0,Resort Hotel,0.0,165.0,2015.0,December,53.0,30.0,0.0,4.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,C,1.0,No Deposit,240.0,,0,Transient,78.0,0,1,Check-Out,11/8/2015
+8942.0,Resort Hotel,1.0,124.0,2016.0,October,43.0,21.0,0.0,2.0,2.0,0.0,0.0,HB,GBR,Online TA,TA/TO,0.0,0.0,0.0,F,F,0.0,No Deposit,,223.0,0,Transient-Party,60.0,0,0,Check-Out,9/19/2016
+1735.0,Resort Hotel,0.0,8.0,2015.0,September,37.0,11.0,2.0,3.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,252.0,1,1,Check-Out,8/15/2015
+7451.0,Resort Hotel,1.0,13.0,2016.0,August,33.0,10.0,0.0,4.0,2.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,40.0,,0,Contract,70.0,0,1,Check-Out,7/8/2016
+9339.0,Resort Hotel,1.0,21.0,2016.0,November,47.0,14.0,1.0,3.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,315.0,,0,Transient-Party,48.0,0,0,Canceled,3/4/2016
+2784.0,Resort Hotel,1.0,155.0,2015.0,October,44.0,31.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,243.0,,0,Contract,38.25,0,0,Check-Out,10/4/2015
+9818.0,Resort Hotel,1.0,2.0,2017.0,January,1.0,6.0,2.0,3.0,1.0,0.0,0.0,BB,NGA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,161.67,0,0,Canceled,8/18/2016
+1716.0,Resort Hotel,0.0,111.0,2015.0,September,37.0,10.0,2.0,7.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,105.0,,0,Transient-Party,154.38,0,1,Canceled,5/14/2015
+6123.0,Resort Hotel,0.0,225.0,2016.0,May,22.0,26.0,0.0,3.0,1.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,2.0,No Deposit,248.0,,0,Transient-Party,46.0,0,0,Canceled,3/22/2016
+4621.0,Resort Hotel,1.0,106.0,2016.0,March,13.0,24.0,1.0,3.0,2.0,0.0,0.0,FB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,39.0,0,0,Canceled,1/20/2016
+6625.0,Resort Hotel,1.0,309.0,2016.0,June,26.0,21.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,315.0,,0,Transient-Party,70.0,0,0,Canceled,5/6/2016
+3909.0,Resort Hotel,1.0,72.0,2016.0,February,6.0,6.0,2.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,38.0,,0,Transient-Party,64.0,0,0,Check-Out,11/22/2015
+4069.0,Resort Hotel,0.0,112.0,2016.0,February,7.0,12.0,0.0,2.0,3.0,0.0,0.0,Undefined,ESP,Groups,TA/TO,0.0,0.0,0.0,A,C,1.0,No Deposit,155.0,,0,Transient-Party,64.0,0,0,Check-Out,12/7/2015
+3770.0,Resort Hotel,0.0,110.0,2016.0,January,1.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,D,E,0.0,No Deposit,240.0,,0,Transient,53.0,0,1,Canceled,9/22/2015
+9765.0,Resort Hotel,1.0,280.0,2016.0,December,53.0,30.0,2.0,2.0,2.0,1.0,0.0,BB,BRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,2.0,No Deposit,,,0,Transient-Party,65.0,0,0,Canceled,9/23/2016
+8534.0,Resort Hotel,1.0,13.0,2016.0,October,41.0,5.0,0.0,1.0,3.0,1.0,0.0,BB,AUT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,250.0,,0,Transient,119.0,0,1,Canceled,3/31/2016
+8202.0,Resort Hotel,1.0,170.0,2016.0,September,38.0,16.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,240.0,0,0,Canceled,2/13/2016
+8706.0,Resort Hotel,0.0,337.0,2016.0,October,42.0,9.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,D,E,0.0,No Deposit,241.0,,0,Transient,156.54,0,0,Canceled,7/10/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,2,Canceled,10/11/2016
+1820.0,Resort Hotel,0.0,42.0,2015.0,September,38.0,16.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,241.0,,0,Transient,129.41,0,1,Check-Out,8/23/2015
+3918.0,Resort Hotel,1.0,72.0,2016.0,February,6.0,6.0,2.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,32.4,0,2,Canceled,10/8/2015
+4551.0,Resort Hotel,0.0,136.0,2016.0,March,13.0,24.0,0.0,3.0,2.0,0.0,0.0,Undefined,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,47.4,1,1,Check-Out,1/10/2016
+9953.0,Resort Hotel,1.0,4.0,2017.0,January,4.0,28.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,248.0,,0,Transient,46.0,0,0,Canceled,10/18/2016
+8589.0,Resort Hotel,1.0,383.0,2016.0,October,41.0,6.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,170.0,0,0,Canceled,10/6/2015
+8303.0,Resort Hotel,1.0,260.0,2016.0,September,39.0,21.0,2.0,8.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,2.0,No Deposit,240.0,,0,Transient,201.86,0,0,Canceled,5/27/2016
+7995.0,Resort Hotel,1.0,238.0,2016.0,September,37.0,7.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,200.0,0,0,Canceled,6/2/2016
+1528.0,Resort Hotel,0.0,1.0,2015.0,September,36.0,3.0,0.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,173.0,0,0,Canceled,7/27/2015
+5783.0,Resort Hotel,1.0,35.0,2016.0,May,20.0,14.0,2.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,245.0,,0,Transient,86.0,0,0,Canceled,1/5/2016
+5667.0,Resort Hotel,1.0,22.0,2016.0,May,20.0,9.0,1.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,85.0,0,0,Canceled,3/16/2016
+8857.0,Resort Hotel,0.0,382.0,2016.0,October,43.0,16.0,3.0,5.0,2.0,0.0,0.0,BB,GBR,Groups,Corporate,0.0,0.0,0.0,A,A,2.0,No Deposit,250.0,,0,Transient,171.0,0,2,Canceled,9/2/2016
+7607.0,Resort Hotel,1.0,75.0,2016.0,August,34.0,16.0,0.0,4.0,3.0,1.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,,331.0,0,Transient,105.0,0,0,Canceled,6/21/2016
+2929.0,Resort Hotel,0.0,4.0,2015.0,November,45.0,7.0,2.0,1.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,68.16,0,1,Check-Out,10/10/2015
+2626.0,Resort Hotel,1.0,148.0,2015.0,October,43.0,24.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,142.0,,0,Transient,81.2,0,0,Check-Out,9/21/2015
+8614.0,Resort Hotel,1.0,151.0,2016.0,October,41.0,8.0,1.0,1.0,2.0,0.0,0.0,BB,BRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,4.0,No Deposit,40.0,,0,Contract,88.4,0,1,Canceled,7/20/2015
+9887.0,Resort Hotel,1.0,40.0,2017.0,January,3.0,16.0,1.0,2.0,1.0,0.0,0.0,Undefined,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,84.4,0,2,Canceled,8/23/2016
+3104.0,Resort Hotel,0.0,16.0,2015.0,November,47.0,18.0,0.0,2.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,,,0,Transient,67.0,0,0,Check-Out,10/13/2015
+6291.0,Resort Hotel,1.0,215.0,2016.0,June,23.0,1.0,0.0,3.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,46.98,0,0,Canceled,3/29/2016
+7507.0,Resort Hotel,1.0,291.0,2016.0,August,33.0,12.0,2.0,6.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,F,F,0.0,No Deposit,242.0,,0,Transient,185.33,0,0,Canceled,3/29/2016
+4767.0,Resort Hotel,0.0,169.0,2016.0,March,14.0,31.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,2.0,Refundable,38.0,,0,Transient,70.0,0,0,Canceled,1/26/2016
+1887.0,Resort Hotel,0.0,87.0,2015.0,September,38.0,19.0,4.0,6.0,2.0,0.0,0.0,BB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,208.0,0,3,Canceled,6/8/2015
+9473.0,Resort Hotel,1.0,128.0,2016.0,December,49.0,3.0,0.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,0,Transient-Party,72.45,0,0,Canceled,9/20/2016
+4813.0,Resort Hotel,0.0,222.0,2016.0,April,14.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,38.0,,0,Transient,70.0,0,0,Canceled,1/26/2016
+8404.0,Resort Hotel,1.0,339.0,2016.0,September,40.0,26.0,3.0,6.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient,275.0,0,1,Canceled,8/8/2016
+1529.0,Resort Hotel,0.0,55.0,2015.0,September,36.0,3.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,E,0.0,No Deposit,177.0,,0,Transient,107.0,0,1,Check-Out,8/1/2015
+3108.0,Resort Hotel,0.0,105.0,2015.0,November,47.0,18.0,2.0,4.0,2.0,0.0,0.0,Undefined,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,175.0,,0,Transient,73.68,1,0,Check-Out,10/14/2015
+4835.0,Resort Hotel,1.0,27.0,2016.0,April,15.0,4.0,1.0,1.0,1.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,134.0,,0,Transient-Party,68.0,0,0,Canceled,2/5/2016
+7980.0,Resort Hotel,1.0,168.0,2016.0,September,37.0,6.0,0.0,1.0,2.0,0.0,0.0,BB,JEY,Online TA,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,240.0,,0,Transient,184.0,0,0,Canceled,7/18/2016
+4980.0,Resort Hotel,1.0,212.0,2016.0,April,16.0,11.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,D,D,0.0,Non Refund,68.0,,0,Transient,70.0,0,0,Canceled,1/21/2016
+8716.0,Resort Hotel,1.0,1.0,2016.0,October,42.0,11.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,242.0,,0,Transient,95.16,0,2,Check-Out,9/10/2016
+6734.0,Resort Hotel,1.0,174.0,2016.0,June,27.0,27.0,3.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,55.0,0,0,Canceled,4/13/2016
+4114.0,Resort Hotel,0.0,101.0,2016.0,February,7.0,13.0,2.0,5.0,2.0,0.0,0.0,BB,FRA,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,36.0,0,0,Canceled,11/10/2015
+5459.0,Resort Hotel,1.0,87.0,2016.0,April,18.0,29.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient-Party,58.0,0,0,Canceled,3/4/2016
+4163.0,Resort Hotel,1.0,31.0,2016.0,February,9.0,21.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,38.0,,0,Transient-Party,68.0,0,0,Check-Out,12/8/2015
+4845.0,Resort Hotel,0.0,171.0,2016.0,April,15.0,4.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,134.0,,0,Transient-Party,70.0,0,0,Check-Out,2/14/2016
+9913.0,Resort Hotel,1.0,44.0,2017.0,January,4.0,22.0,2.0,5.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,103.57,0,0,Canceled,10/18/2016
+1988.0,Resort Hotel,0.0,119.0,2015.0,September,39.0,25.0,2.0,6.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,F,F,0.0,No Deposit,240.0,,0,Transient,211.0,0,2,Canceled,8/1/2015
+7056.0,Resort Hotel,1.0,224.0,2016.0,July,30.0,18.0,1.0,4.0,2.0,1.0,1.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,C,C,0.0,No Deposit,96.0,,0,Transient,110.0,0,0,Canceled,12/1/2015
+3886.0,Resort Hotel,1.0,13.0,2016.0,February,6.0,5.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,313.0,,0,Transient-Party,69.0,0,0,Check-Out,11/24/2015
+1274.0,Resort Hotel,0.0,85.0,2015.0,August,34.0,22.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,147.0,1,2,Check-Out,7/24/2015
+6558.0,Resort Hotel,0.0,273.0,2016.0,June,25.0,17.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/16/2016
+8945.0,Resort Hotel,1.0,24.0,2016.0,October,43.0,21.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,223.0,0,Transient-Party,68.0,0,0,Check-Out,9/19/2016
+,,,,,,,,,,,,,,,,,,,,,,,,11.0,,0,Transient,30.0,0,0,Canceled,10/18/2016
+860.0,Resort Hotel,1.0,130.0,2015.0,August,31.0,1.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,242.0,,0,Transient,117.0,0,1,Canceled,5/13/2015
+7445.0,Resort Hotel,1.0,55.0,2016.0,August,33.0,10.0,0.0,1.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,174.0,0,0,Canceled,6/24/2016
+2276.0,Resort Hotel,0.0,71.0,2015.0,October,41.0,8.0,0.0,3.0,2.0,1.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient-Party,114.19,0,1,Check-Out,9/9/2015
+9555.0,Resort Hotel,1.0,4.0,2016.0,December,50.0,10.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,273.0,,125,Transient-Party,80.81,0,0,Check-Out,10/21/2016
+883.0,Resort Hotel,0.0,0.0,2015.0,August,32.0,3.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,C,C,0.0,No Deposit,240.0,,0,Transient,163.0,1,0,Check-Out,7/5/2015
+8555.0,Resort Hotel,0.0,383.0,2016.0,October,41.0,6.0,0.0,3.0,3.0,0.0,0.0,BB,GBR,Groups,TA/TO,0.0,0.0,0.0,A,C,1.0,No Deposit,240.0,,0,Transient,206.71,0,0,Canceled,6/26/2016
+7281.0,Resort Hotel,1.0,247.0,2016.0,August,32.0,1.0,1.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,201.5,0,0,Canceled,5/4/2016
+797.0,Resort Hotel,1.0,8.0,2015.0,July,31.0,30.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,H,0.0,No Deposit,175.0,,0,Transient,65.5,0,0,Check-Out,7/8/2015
+8651.0,Resort Hotel,1.0,315.0,2016.0,October,41.0,8.0,3.0,6.0,2.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,151.0,0,1,Canceled,6/27/2016
+7594.0,Resort Hotel,1.0,119.0,2016.0,August,34.0,15.0,3.0,6.0,2.0,0.0,0.0,HB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,315.0,,0,Transient,83.8,0,0,Check-Out,7/14/2016
+6185.0,Resort Hotel,0.0,204.0,2016.0,May,22.0,27.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,85.0,0,1,No-Show,4/29/2016
+1832.0,Resort Hotel,1.0,97.0,2015.0,September,38.0,16.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,6.0,,0,Transient-Party,90.95,0,1,Canceled,6/15/2015
+2111.0,Resort Hotel,0.0,113.0,2015.0,October,40.0,2.0,0.0,2.0,2.0,0.0,0.0,BB,ARG,Online TA,TA/TO,0.0,0.0,0.0,E,F,0.0,No Deposit,240.0,,0,Transient,186.13,0,0,Canceled,5/1/2015
+5511.0,Resort Hotel,0.0,171.0,2016.0,April,18.0,30.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,4/3/2016
+6769.0,Resort Hotel,0.0,254.0,2016.0,July,27.0,1.0,2.0,2.0,3.0,1.0,0.0,BB,CN,Direct,Direct,0.0,0.0,0.0,G,G,0.0,No Deposit,96.0,,0,Transient-Party,63.0,0,0,Canceled,2/10/2016
+6803.0,Resort Hotel,1.0,138.0,2016.0,July,27.0,2.0,4.0,6.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,113.0,0,0,Canceled,4/12/2016
+4581.0,Resort Hotel,0.0,136.0,2016.0,March,13.0,24.0,0.0,3.0,2.0,0.0,0.0,Undefined,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,C,1.0,No Deposit,242.0,,0,Transient,41.4,0,1,No-Show,1/12/2016
+9210.0,Resort Hotel,1.0,13.0,2016.0,November,45.0,3.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,105.2,0,0,Canceled,7/7/2016
+6033.0,Resort Hotel,1.0,70.0,2016.0,May,21.0,21.0,2.0,5.0,2.0,2.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,177.0,,0,Transient,52.2,0,1,Canceled,4/20/2016
+7661.0,Resort Hotel,1.0,48.0,2016.0,August,34.0,19.0,0.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,85.05,0,2,Check-Out,7/23/2016
+6073.0,Resort Hotel,0.0,223.0,2016.0,May,22.0,24.0,1.0,5.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,95.0,,0,Transient,52.2,0,0,Canceled,3/31/2016
+795.0,Resort Hotel,0.0,37.0,2015.0,July,31.0,30.0,0.0,1.0,1.0,0.0,0.0,BB,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,F,1.0,No Deposit,241.0,,0,Transient,63.86,0,0,Check-Out,7/16/2015
+6438.0,Resort Hotel,0.0,220.0,2016.0,June,24.0,11.0,2.0,5.0,2.0,0.0,0.0,HB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,2.0,No Deposit,184.0,,0,Transient,88.0,0,0,Canceled,4/23/2016
+5150.0,Resort Hotel,0.0,172.0,2016.0,April,17.0,18.0,3.0,5.0,1.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,375.0,,0,Transient-Party,25.0,0,0,Canceled,3/2/2016
+793.0,Resort Hotel,1.0,47.0,2015.0,July,31.0,29.0,2.0,6.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,87.3,1,1,Check-Out,7/8/2015
+4966.0,Resort Hotel,0.0,275.0,2016.0,April,16.0,10.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,39.0,0,0,Canceled,12/26/2015
+8271.0,Resort Hotel,1.0,385.0,2016.0,September,39.0,21.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,242.0,,0,Transient,195.3,0,1,Canceled,5/26/2016
+1499.0,Resort Hotel,0.0,5.0,2015.0,September,36.0,1.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,E,0.0,No Deposit,142.0,,0,Transient,133.2,0,0,Check-Out,7/31/2015
+2831.0,Resort Hotel,1.0,81.0,2015.0,October,44.0,31.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,55.8,0,2,Check-Out,10/3/2015
+870.0,Resort Hotel,1.0,25.0,2015.0,August,32.0,2.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,172.0,0,1,Canceled,5/20/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,57.23,0,1,Canceled,8/19/2016
+9658.0,Resort Hotel,1.0,91.0,2016.0,December,52.0,23.0,2.0,4.0,2.0,1.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,123.0,0,0,Canceled,7/21/2016
+8784.0,Resort Hotel,0.0,365.0,2016.0,October,42.0,13.0,2.0,3.0,2.0,0.0,0.0,BB,BEL,Groups,Corporate,0.0,0.0,0.0,A,D,1.0,No Deposit,1.0,,0,Transient,89.0,0,0,Canceled,2/9/2016
+2996.0,Resort Hotel,1.0,39.0,2015.0,November,46.0,10.0,0.0,5.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,98.4,0,1,Check-Out,10/13/2015
+1757.0,Resort Hotel,1.0,127.0,2015.0,September,38.0,13.0,2.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,101.25,0,0,Canceled,4/6/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,135.0,0,0,Canceled,10/12/2016
+7822.0,Resort Hotel,1.0,123.0,2016.0,August,36.0,28.0,2.0,3.0,2.0,0.0,0.0,BB,USA,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,8.0,,0,Transient,100.8,0,0,Canceled,6/30/2016
+7553.0,Resort Hotel,1.0,95.0,2016.0,August,34.0,14.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,72.9,0,1,Canceled,3/23/2016
+1124.0,Resort Hotel,1.0,80.0,2015.0,August,33.0,15.0,2.0,3.0,3.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,130.0,1,0,Check-Out,7/16/2015
+1068.0,Resort Hotel,1.0,128.0,2015.0,August,33.0,12.0,2.0,8.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,178.0,1,0,Check-Out,7/21/2015
+3391.0,Resort Hotel,1.0,44.0,2015.0,December,49.0,5.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,39.0,0,0,Canceled,6/26/2015
+9729.0,Resort Hotel,1.0,131.0,2016.0,December,53.0,30.0,0.0,2.0,2.0,2.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,,,0,Transient-Party,115.0,0,0,Canceled,10/3/2016
+5277.0,Resort Hotel,1.0,95.0,2016.0,April,17.0,23.0,4.0,10.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,48.0,0,0,Canceled,3/20/2016
+6674.0,Resort Hotel,1.0,225.0,2016.0,June,26.0,23.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/18/2016
+9077.0,Resort Hotel,1.0,0.0,2016.0,October,44.0,27.0,0.0,2.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,96.0,,0,Transient-Party,64.0,0,0,Canceled,6/17/2016
+3864.0,Resort Hotel,1.0,3.0,2016.0,February,6.0,1.0,1.0,0.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,D,0.0,No Deposit,321.0,,0,Transient,0.0,1,1,Check-Out,11/17/2015
+6467.0,Resort Hotel,1.0,36.0,2016.0,June,25.0,12.0,2.0,0.0,2.0,2.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,314.0,,0,Transient,80.16,0,0,Check-Out,5/21/2016
+4662.0,Resort Hotel,0.0,142.0,2016.0,March,13.0,25.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,,,0,Transient-Party,73.33,0,0,Canceled,1/19/2016
+6204.0,Resort Hotel,0.0,225.0,2016.0,May,22.0,28.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,D,1.0,No Deposit,,,0,Transient,84.0,0,0,Canceled,2/12/2016
+8694.0,Resort Hotel,0.0,337.0,2016.0,October,42.0,9.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,171.0,,0,Transient,98.0,0,0,Canceled,6/30/2016
+1385.0,Resort Hotel,0.0,10.0,2015.0,August,35.0,27.0,2.0,5.0,2.0,1.0,0.0,BB,GBR,Direct,Direct,0.0,0.0,0.0,C,C,0.0,No Deposit,250.0,,0,Transient,134.0,0,0,Check-Out,7/24/2015
+7999.0,Resort Hotel,1.0,238.0,2016.0,September,37.0,7.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,179.0,0,0,Canceled,6/22/2016
+3262.0,Resort Hotel,1.0,164.0,2015.0,November,48.0,28.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,47,Transient-Party,76.8,0,0,Check-Out,10/24/2015
+1477.0,Resort Hotel,0.0,10.0,2015.0,August,36.0,31.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,250.0,,0,Transient,209.0,0,1,Check-Out,7/31/2015
+9167.0,Resort Hotel,1.0,245.0,2016.0,October,45.0,31.0,1.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,15.0,,0,Transient,80.0,0,0,Canceled,1/22/2016
+3619.0,Resort Hotel,1.0,215.0,2015.0,December,52.0,26.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,281.0,,0,Transient-Party,40.0,0,0,Canceled,10/10/2015
+5033.0,Resort Hotel,1.0,78.0,2016.0,April,16.0,12.0,4.0,10.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,86.57,0,1,Canceled,2/18/2016
+3672.0,Resort Hotel,0.0,165.0,2015.0,December,53.0,30.0,0.0,4.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,241.0,,0,Transient,77.3,1,0,Check-Out,11/8/2015
+8844.0,Resort Hotel,1.0,23.0,2016.0,October,43.0,16.0,2.0,2.0,2.0,0.0,0.0,HB,PRT,Groups,Corporate,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,133.0,0,0,Canceled,7/19/2016
+5280.0,Resort Hotel,1.0,9.0,2016.0,April,18.0,24.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,70.4,0,2,Canceled,8/15/2015
+2025.0,Resort Hotel,0.0,177.0,2015.0,September,40.0,27.0,4.0,10.0,1.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,222.0,0,0,Check-Out,8/28/2015
+3924.0,Resort Hotel,0.0,168.0,2016.0,February,6.0,6.0,2.0,5.0,2.0,0.0,0.0,BB,DNK,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,32.4,0,2,Canceled,10/8/2015
+1734.0,Resort Hotel,0.0,1.0,2015.0,September,37.0,11.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,F,0.0,No Deposit,250.0,,0,Transient,200.71,0,0,No-Show,8/8/2015
+4676.0,Resort Hotel,1.0,20.0,2016.0,March,14.0,27.0,2.0,2.0,1.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient-Party,73.33,0,0,Canceled,1/19/2016
+5962.0,Resort Hotel,1.0,37.0,2016.0,May,21.0,18.0,2.0,4.0,2.0,0.0,0.0,BB,ARG,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient-Party,52.98,1,2,Check-Out,4/24/2016
+9610.0,Resort Hotel,1.0,4.0,2016.0,December,52.0,20.0,0.0,1.0,1.0,0.0,0.0,BB,,Corporate,Corporate,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,60.0,0,1,Canceled,9/29/2016
+1023.0,Resort Hotel,1.0,95.0,2015.0,August,33.0,10.0,2.0,5.0,4.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,96.3,0,2,Check-Out,7/13/2015
+4554.0,Resort Hotel,1.0,79.0,2016.0,March,13.0,24.0,0.0,3.0,2.0,1.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,C,C,0.0,No Deposit,240.0,,0,Transient,48.0,0,2,Canceled,1/7/2016
+9966.0,Resort Hotel,1.0,12.0,2017.0,January,5.0,30.0,1.0,1.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,37.8,0,2,Canceled,9/30/2016
+1251.0,Resort Hotel,0.0,112.0,2015.0,August,34.0,21.0,2.0,3.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,2.0,No Deposit,240.0,,0,Transient,132.3,0,3,Check-Out,7/24/2015
+8671.0,Resort Hotel,1.0,131.0,2016.0,October,42.0,9.0,2.0,0.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,189.0,0,2,Canceled,7/26/2016
+1282.0,Resort Hotel,0.0,72.0,2015.0,August,34.0,22.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,210.0,0,0,Canceled,6/11/2015
+9106.0,Resort Hotel,1.0,206.0,2016.0,October,44.0,27.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,16.0,No Deposit,315.0,,0,Transient,66.6,0,0,Canceled,9/19/2016
+1075.0,Resort Hotel,0.0,1.0,2015.0,August,33.0,13.0,0.0,1.0,3.0,0.0,0.0,BB,IRL,Corporate,Corporate,0.0,0.0,0.0,A,F,0.0,No Deposit,240.0,,0,Transient,132.29,0,0,Check-Out,7/19/2015
+3995.0,Resort Hotel,1.0,112.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,342.0,0,Transient-Party,44.0,0,0,Check-Out,11/22/2015
+8696.0,Resort Hotel,0.0,337.0,2016.0,October,42.0,9.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,D,E,0.0,No Deposit,171.0,,0,Transient,100.0,0,0,Check-Out,9/2/2016
+8221.0,Resort Hotel,0.0,376.0,2016.0,September,39.0,18.0,4.0,10.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,159.5,0,1,Check-Out,8/15/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,42.43,0,0,Canceled,11/11/2016
+5947.0,Resort Hotel,1.0,151.0,2016.0,May,21.0,17.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,273.0,,0,Transient-Party,69.36,0,0,Canceled,3/18/2016
+8840.0,Resort Hotel,1.0,181.0,2016.0,October,43.0,16.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient,115.0,0,1,Canceled,8/17/2016
+7265.0,Resort Hotel,1.0,133.0,2016.0,July,32.0,31.0,2.0,5.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,129.0,0,2,Canceled,4/28/2016
+7554.0,Resort Hotel,1.0,95.0,2016.0,August,34.0,14.0,2.0,5.0,2.0,1.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,241.0,,0,Transient,103.76,0,3,Canceled,3/10/2016
+8536.0,Resort Hotel,1.0,29.0,2016.0,October,41.0,5.0,0.0,3.0,3.0,1.0,0.0,BB,CHE,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,189.0,0,0,Canceled,7/27/2016
+3501.0,Resort Hotel,0.0,88.0,2015.0,December,51.0,19.0,2.0,2.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,48.0,0,2,Check-Out,11/1/2015
+8605.0,Resort Hotel,1.0,14.0,2016.0,October,41.0,7.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,E,0.0,No Deposit,240.0,,0,Transient,197.14,0,0,Canceled,3/24/2016
+7025.0,Resort Hotel,1.0,203.0,2016.0,July,29.0,16.0,6.0,12.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,314.0,,0,Transient,87.49,0,0,Check-Out,6/7/2016
+8969.0,Resort Hotel,1.0,135.0,2016.0,October,43.0,22.0,2.0,2.0,2.0,2.0,0.0,BB,SWE,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,155.0,0,0,Canceled,9/10/2016
+2011.0,Resort Hotel,1.0,73.0,2015.0,September,40.0,27.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,178.33,0,1,Canceled,7/17/2015
+,,,,,,,,,,,,,,,,,,,,,,,,241.0,,0,Transient,57.28,0,0,Canceled,7/13/2016
+4958.0,Resort Hotel,0.0,275.0,2016.0,April,16.0,10.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,68.0,,0,Transient,70.0,0,0,Canceled,1/21/2016
+8764.0,Resort Hotel,0.0,364.0,2016.0,October,42.0,12.0,1.0,4.0,2.0,0.0,0.0,BB,GBR,Groups,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,1.0,,0,Transient,89.0,0,0,Canceled,2/9/2016
+8141.0,Resort Hotel,0.0,327.0,2016.0,September,38.0,14.0,0.0,4.0,2.0,0.0,0.0,BB,IRL,Groups,TA/TO,0.0,0.0,0.0,A,D,1.0,No Deposit,240.0,,0,Transient,251.0,0,0,Canceled,7/26/2016
+4198.0,Resort Hotel,1.0,74.0,2016.0,February,9.0,26.0,1.0,2.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,40.5,0,2,Canceled,11/17/2015
+6145.0,Resort Hotel,0.0,225.0,2016.0,May,22.0,26.0,1.0,3.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,E,2.0,No Deposit,385.0,,0,Transient-Party,72.0,0,0,Canceled,4/15/2016
+1722.0,Resort Hotel,0.0,2.0,2015.0,September,37.0,11.0,0.0,1.0,1.0,0.0,0.0,BB,SWE,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,134.0,0,1,Canceled,7/9/2015
+1180.0,Resort Hotel,1.0,126.0,2015.0,August,34.0,17.0,1.0,4.0,3.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,305.0,,0,Transient-Party,107.0,0,0,Check-Out,7/17/2015
+6505.0,Resort Hotel,0.0,223.0,2016.0,June,25.0,13.0,2.0,5.0,1.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,315.0,,0,Transient-Party,48.0,0,0,Canceled,9/28/2015
+7491.0,Resort Hotel,1.0,121.0,2016.0,August,33.0,12.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,416.0,0,Transient,79.0,0,0,Canceled,6/24/2016
+5145.0,Resort Hotel,1.0,110.0,2016.0,April,17.0,18.0,1.0,3.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,241.0,,0,Transient,58.0,0,0,Canceled,3/4/2016
+5960.0,Resort Hotel,1.0,40.0,2016.0,May,21.0,18.0,0.0,2.0,1.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,94.0,0,1,Canceled,2/24/2016
+1876.0,Resort Hotel,0.0,33.0,2015.0,September,38.0,19.0,2.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,,,0,Transient,160.0,1,0,Check-Out,8/21/2015
+3452.0,Resort Hotel,0.0,66.0,2015.0,December,50.0,10.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,243.0,,0,Contract,69.93,0,0,Check-Out,11/1/2015
+7236.0,Resort Hotel,1.0,46.0,2016.0,July,31.0,30.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,110.0,0,0,Canceled,3/29/2016
+9583.0,Resort Hotel,1.0,17.0,2016.0,December,51.0,16.0,1.0,2.0,2.0,0.0,0.0,BB,IRL,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,145.71,0,0,Canceled,9/19/2016
+8571.0,Resort Hotel,0.0,383.0,2016.0,October,41.0,6.0,0.0,3.0,1.0,0.0,0.0,BB,IRL,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,234.0,0,0,Canceled,4/2/2016
+4174.0,Resort Hotel,1.0,45.0,2016.0,February,9.0,23.0,0.0,3.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,250.0,,0,Transient,109.0,1,2,Check-Out,12/8/2015
+844.0,Resort Hotel,1.0,84.0,2015.0,August,31.0,1.0,2.0,1.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Contract,58.95,0,0,Check-Out,7/12/2015
+5377.0,Resort Hotel,1.0,12.0,2016.0,April,18.0,27.0,0.0,3.0,2.0,0.0,0.0,Undefined,PRT,Groups,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,68.0,,0,Transient,84.0,0,0,Canceled,1/22/2016
+2137.0,Resort Hotel,0.0,114.0,2015.0,October,40.0,3.0,0.0,1.0,1.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,124.5,0,1,Canceled,8/17/2015
+2273.0,Resort Hotel,0.0,77.0,2015.0,October,41.0,8.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,110.71,0,0,Check-Out,9/8/2015
+7206.0,Resort Hotel,0.0,301.0,2016.0,July,31.0,27.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,129.0,0,0,Canceled,4/15/2016
+3834.0,Resort Hotel,1.0,3.0,2016.0,January,4.0,19.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient-Party,0.0,0,2,Check-Out,11/13/2015
+3779.0,Resort Hotel,1.0,5.0,2016.0,January,2.0,4.0,1.0,3.0,2.0,0.0,0.0,HB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,185.0,281.0,0,Transient-Party,36.0,0,0,Check-Out,11/15/2015
+5586.0,Resort Hotel,1.0,109.0,2016.0,May,19.0,2.0,2.0,5.0,1.0,1.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,113.0,0,0,Canceled,3/28/2016
+8585.0,Resort Hotel,1.0,383.0,2016.0,October,41.0,6.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,189.0,0,0,Canceled,8/5/2016
+856.0,Resort Hotel,1.0,74.0,2015.0,August,31.0,1.0,2.0,5.0,2.0,2.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,C,C,0.0,No Deposit,241.0,,0,Transient,94.71,0,0,Check-Out,7/4/2015
+,,,,,,,,,,,,,,,,,,,,,,,,11.0,,0,Transient,30.0,0,0,Canceled,10/18/2016
+7363.0,Resort Hotel,1.0,149.0,2016.0,August,32.0,5.0,2.0,6.0,2.0,2.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,G,G,1.0,No Deposit,240.0,,0,Transient,85.5,0,0,Canceled,1/26/2016
+5206.0,Resort Hotel,0.0,191.0,2016.0,April,17.0,22.0,1.0,2.0,2.0,0.0,0.0,Undefined,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,,,0,Transient,0.0,0,0,Canceled,3/11/2016
+8365.0,Resort Hotel,1.0,289.0,2016.0,September,39.0,24.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,217.33,0,0,Canceled,6/13/2016
+4598.0,Resort Hotel,0.0,136.0,2016.0,March,13.0,24.0,0.0,3.0,2.0,0.0,0.0,Undefined,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,39.0,0,0,Canceled,1/19/2016
+,,,,,,,,,,,,,,,,,,,,,,,,314.0,,0,Transient-Party,51.22,0,0,Canceled,9/17/2016
+5085.0,Resort Hotel,0.0,183.0,2016.0,April,16.0,16.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,171.0,,0,Transient,55.0,0,0,Canceled,3/3/2016
+4157.0,Resort Hotel,1.0,26.0,2016.0,February,8.0,20.0,0.0,1.0,2.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,134.0,,0,Transient-Party,70.0,0,0,Canceled,11/30/2015
+5515.0,Resort Hotel,0.0,173.0,2016.0,April,18.0,30.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,4/3/2016
+7992.0,Resort Hotel,1.0,238.0,2016.0,September,37.0,7.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,178.67,0,0,Canceled,3/31/2016
+9954.0,Resort Hotel,1.0,4.0,2017.0,January,4.0,28.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Complementary,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,248.0,,0,Transient,46.0,0,0,Canceled,10/18/2016
+3124.0,Resort Hotel,0.0,105.0,2015.0,November,47.0,18.0,2.0,4.0,2.0,0.0,0.0,Undefined,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,77.5,1,1,Check-Out,10/12/2015
+1911.0,Resort Hotel,1.0,185.0,2015.0,September,39.0,21.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,242.0,,0,Transient,188.71,0,0,Canceled,7/3/2015
+6429.0,Resort Hotel,1.0,16.0,2016.0,June,24.0,10.0,2.0,3.0,3.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,71.0,0,1,Canceled,4/5/2016
+8838.0,Resort Hotel,1.0,181.0,2016.0,October,43.0,16.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient,115.0,0,1,Canceled,8/17/2016
+5706.0,Resort Hotel,1.0,30.0,2016.0,May,20.0,12.0,0.0,2.0,1.0,0.0,0.0,BB,ARG,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,107.0,0,0,Canceled,3/28/2016
+4426.0,Resort Hotel,1.0,15.0,2016.0,March,12.0,16.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,308.0,,122,Transient-Party,136.5,0,0,Check-Out,1/3/2016
+2326.0,Resort Hotel,0.0,9.0,2015.0,October,41.0,9.0,1.0,2.0,2.0,0.0,0.0,BB,ESP,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,172.0,0,1,Check-Out,9/6/2015
+4876.0,Resort Hotel,1.0,116.0,2016.0,April,15.0,4.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,68.0,0,1,Canceled,2/1/2016
+9813.0,Resort Hotel,1.0,4.0,2017.0,January,1.0,5.0,0.0,3.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,47.0,0,Transient,48.0,0,0,Check-Out,10/26/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,42.0,0,1,No-Show,11/7/2016
+9301.0,Resort Hotel,1.0,37.0,2016.0,November,46.0,10.0,1.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,79.0,0,0,Canceled,4/12/2016
+1558.0,Resort Hotel,0.0,0.0,2015.0,September,36.0,4.0,0.0,1.0,2.0,0.0,0.0,BB,ESP,Direct,Direct,0.0,0.0,0.0,D,E,0.0,No Deposit,240.0,,0,Transient,173.0,0,3,Canceled,7/16/2015
+6617.0,Resort Hotel,0.0,294.0,2016.0,June,26.0,21.0,0.0,5.0,2.0,0.0,0.0,BB,FIN,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,315.0,,0,Transient-Party,70.0,0,0,Canceled,5/6/2016
+8382.0,Resort Hotel,1.0,71.0,2016.0,September,40.0,25.0,2.0,1.0,1.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,177.79,0,0,Canceled,5/8/2016
+2357.0,Resort Hotel,0.0,4.0,2015.0,October,41.0,10.0,1.0,1.0,2.0,2.0,0.0,BB,CHL,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,113.0,0,0,Canceled,6/26/2015
+8181.0,Resort Hotel,0.0,336.0,2016.0,September,38.0,15.0,1.0,3.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,219.0,0,0,Canceled,7/22/2016
+6030.0,Resort Hotel,1.0,25.0,2016.0,May,21.0,21.0,2.0,4.0,2.0,2.0,0.0,BB,ARE,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,73.0,0,1,Canceled,1/29/2016
+7910.0,Resort Hotel,1.0,73.0,2016.0,September,36.0,2.0,0.0,1.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,1.0,No Deposit,240.0,,0,Transient,210.0,0,0,Canceled,1/15/2016
+852.0,Resort Hotel,1.0,9.0,2015.0,August,31.0,1.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,240.0,,0,Transient,73.8,0,0,Check-Out,7/4/2015
+9458.0,Resort Hotel,1.0,135.0,2016.0,December,49.0,1.0,1.0,3.0,2.0,0.0,0.0,BB,USA,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,273.0,,101,Transient-Party,67.99,0,2,Check-Out,10/16/2016
+,,,,,,,,,,,,,,,,,,,,,,,,8.0,,0,Transient,72.0,0,0,Canceled,6/6/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,43.0,0,0,Canceled,11/23/2016
+7517.0,Resort Hotel,1.0,8.0,2016.0,August,33.0,13.0,1.0,1.0,1.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,124.0,0,0,Canceled,3/8/2016
+4265.0,Resort Hotel,1.0,119.0,2016.0,February,9.0,27.0,2.0,6.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,177.0,,0,Transient,40.5,0,0,Check-Out,12/23/2015
+2997.0,Resort Hotel,0.0,36.0,2015.0,November,46.0,10.0,0.0,5.0,2.0,1.0,0.0,BB,ESP,Direct,Direct,0.0,0.0,0.0,A,D,2.0,No Deposit,147.0,,0,Transient,43.3,0,1,Check-Out,10/13/2015
+3566.0,Resort Hotel,0.0,44.0,2015.0,December,52.0,24.0,0.0,2.0,1.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,175.0,,0,Transient,39.2,0,0,Check-Out,11/1/2015
+5187.0,Resort Hotel,1.0,208.0,2016.0,April,17.0,19.0,2.0,5.0,1.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,,113.0,0,Transient,30.0,0,0,Canceled,3/16/2016
+6426.0,Resort Hotel,1.0,17.0,2016.0,June,24.0,10.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,46.98,0,1,Canceled,2/3/2016
+7933.0,Resort Hotel,1.0,241.0,2016.0,September,36.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,194.0,0,0,Canceled,6/21/2016
+9100.0,Resort Hotel,1.0,181.0,2016.0,October,44.0,27.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,D,D,6.0,No Deposit,251.0,,0,Transient,78.0,0,0,Canceled,9/8/2016
+2911.0,Resort Hotel,1.0,123.0,2015.0,November,45.0,6.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,240.0,,0,Transient-Party,38.07,0,0,Check-Out,10/7/2015
+8732.0,Resort Hotel,0.0,364.0,2016.0,October,42.0,12.0,0.0,4.0,2.0,0.0,0.0,BB,GBR,Groups,Corporate,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,100.0,0,1,Canceled,1/28/2016
+7314.0,Resort Hotel,1.0,274.0,2016.0,August,32.0,2.0,0.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,113.0,1,1,Check-Out,6/21/2016
+8406.0,Resort Hotel,1.0,339.0,2016.0,September,40.0,26.0,3.0,6.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient,200.1,0,0,Canceled,8/11/2016
+6927.0,Resort Hotel,1.0,134.0,2016.0,July,29.0,12.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,2.0,No Deposit,240.0,,0,Transient,58.0,0,2,Canceled,4/6/2016
+2258.0,Resort Hotel,1.0,22.0,2015.0,October,41.0,8.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,2.0,No Deposit,240.0,,0,Transient,155.0,0,2,Check-Out,9/5/2015
+8459.0,Resort Hotel,1.0,20.0,2016.0,September,40.0,30.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,F,F,2.0,No Deposit,175.0,,0,Transient,91.55,0,0,Canceled,1/18/2016
+7857.0,Resort Hotel,1.0,38.0,2016.0,August,36.0,30.0,0.0,4.0,2.0,0.0,0.0,HB,PRT,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,179.0,0,1,Canceled,6/24/2016
+2172.0,Resort Hotel,0.0,0.0,2015.0,October,41.0,4.0,2.0,0.0,2.0,0.0,0.0,BB,TUR,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,165.0,1,1,Check-Out,8/29/2015
+7454.0,Resort Hotel,1.0,42.0,2016.0,August,33.0,10.0,0.0,4.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,90.0,0,2,Check-Out,7/8/2016
+4164.0,Resort Hotel,1.0,38.0,2016.0,February,9.0,21.0,2.0,3.0,3.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,38.0,,0,Transient-Party,68.0,0,0,Check-Out,12/8/2015
+872.0,Resort Hotel,1.0,36.0,2015.0,August,32.0,2.0,2.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,134.0,,0,Transient,58.95,0,1,Check-Out,7/11/2015
+6399.0,Resort Hotel,1.0,24.0,2016.0,June,24.0,8.0,0.0,3.0,2.0,0.0,0.0,BB,CHE,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,97.0,0,0,Canceled,3/16/2016
+9245.0,Resort Hotel,1.0,99.0,2016.0,November,45.0,5.0,2.0,1.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,64.64,0,2,Canceled,1/14/2016
+7367.0,Resort Hotel,1.0,177.0,2016.0,August,32.0,5.0,2.0,4.0,3.0,1.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,72.0,0,0,Canceled,6/2/2016
+1854.0,Resort Hotel,0.0,34.0,2015.0,September,38.0,17.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,242.0,,0,Transient,243.0,0,2,Check-Out,8/18/2015
+6323.0,Resort Hotel,1.0,122.0,2016.0,June,23.0,3.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Canceled,4/9/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,1,Canceled,11/7/2016
+8906.0,Resort Hotel,0.0,385.0,2016.0,October,43.0,19.0,1.0,4.0,2.0,0.0,0.0,BB,GBR,Groups,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,201.0,,0,Transient-Party,61.4,0,0,Check-Out,9/18/2016
+9427.0,Resort Hotel,1.0,232.0,2016.0,November,48.0,26.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient-Party,55.0,0,0,Canceled,9/29/2016
+7359.0,Resort Hotel,1.0,210.0,2016.0,August,32.0,5.0,2.0,3.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,103.75,0,0,Canceled,2/12/2016
+1387.0,Resort Hotel,0.0,30.0,2015.0,August,35.0,28.0,0.0,1.0,2.0,0.0,0.0,BB,ESP,Direct,Direct,0.0,0.0,0.0,A,G,0.0,No Deposit,240.0,,0,Transient-Party,194.0,1,1,Check-Out,7/26/2015
+7634.0,Resort Hotel,1.0,26.0,2016.0,August,34.0,17.0,1.0,4.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,178.5,0,1,Canceled,6/24/2016
+5577.0,Resort Hotel,0.0,203.0,2016.0,May,19.0,2.0,1.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,3.0,No Deposit,241.0,,0,Transient,42.19,0,2,Check-Out,4/9/2016
+7316.0,Resort Hotel,1.0,55.0,2016.0,August,32.0,2.0,0.0,4.0,2.0,0.0,0.0,BB,TUR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,99.64,0,2,Canceled,6/17/2016
+8293.0,Resort Hotel,1.0,202.0,2016.0,September,39.0,21.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,140.0,0,0,Canceled,7/18/2016
+6559.0,Resort Hotel,1.0,256.0,2016.0,June,25.0,17.0,2.0,7.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,42.5,0,1,Check-Out,5/16/2016
+8200.0,Resort Hotel,0.0,394.0,2016.0,September,38.0,16.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,240.0,,0,Transient,240.0,0,0,Canceled,2/13/2016
+4981.0,Resort Hotel,1.0,212.0,2016.0,April,16.0,11.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,68.0,,0,Transient,70.0,0,0,Canceled,1/21/2016
+6704.0,Resort Hotel,1.0,226.0,2016.0,June,26.0,25.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,G,G,0.0,No Deposit,,,0,Transient,46.0,0,0,Canceled,1/25/2016
+9264.0,Resort Hotel,1.0,47.0,2016.0,November,45.0,5.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,96.0,,0,Transient,52.0,0,0,Canceled,5/9/2016
+7192.0,Resort Hotel,1.0,115.0,2016.0,July,31.0,26.0,1.0,5.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,108.0,0,1,Canceled,5/9/2016
+7590.0,Resort Hotel,1.0,146.0,2016.0,August,34.0,15.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,315.0,,0,Transient,57.8,0,1,Canceled,7/1/2016
+4894.0,Resort Hotel,1.0,85.0,2016.0,April,15.0,7.0,0.0,3.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,8.0,,0,Transient-Party,26.1,1,1,Check-Out,2/17/2016
+8565.0,Resort Hotel,0.0,383.0,2016.0,October,41.0,6.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,185.43,0,0,Canceled,6/6/2016
+8517.0,Resort Hotel,1.0,141.0,2016.0,October,41.0,3.0,1.0,4.0,2.0,0.0,0.0,BB,AUT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,195.43,0,0,Canceled,7/19/2016
+5485.0,Resort Hotel,1.0,0.0,2016.0,April,18.0,30.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,4/3/2016
+2414.0,Resort Hotel,0.0,2.0,2015.0,October,42.0,12.0,1.0,1.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,147.0,,0,Transient,64.29,0,0,Check-Out,9/13/2015
+4904.0,Resort Hotel,1.0,85.0,2016.0,April,15.0,7.0,0.0,3.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,98.0,0,0,Canceled,12/31/2015
+2381.0,Resort Hotel,1.0,143.0,2015.0,October,41.0,10.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,98.0,0,1,Canceled,6/29/2015
+2793.0,Resort Hotel,0.0,155.0,2015.0,October,44.0,31.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,175.0,,0,Transient,74.6,0,1,Canceled,7/25/2015
+9281.0,Resort Hotel,1.0,20.0,2016.0,November,46.0,8.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,C,C,0.0,No Deposit,240.0,,0,Transient,79.0,0,0,Canceled,7/21/2016
+5339.0,Resort Hotel,1.0,56.0,2016.0,April,18.0,25.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient-Party,84.0,0,0,Check-Out,3/27/2016
+4756.0,Resort Hotel,0.0,169.0,2016.0,March,14.0,31.0,0.0,3.0,2.0,0.0,0.0,BB,BEL,Groups,Direct,0.0,0.0,0.0,A,E,1.0,Refundable,134.0,,0,Transient-Party,70.0,0,0,Check-Out,2/14/2016
+8140.0,Resort Hotel,1.0,36.0,2016.0,September,38.0,14.0,0.0,2.0,2.0,2.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,179.0,0,0,Canceled,5/11/2016
+6913.0,Resort Hotel,0.0,276.0,2016.0,July,29.0,11.0,1.0,4.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,,223.0,0,Transient-Party,46.5,0,0,Check-Out,5/30/2016
+5672.0,Resort Hotel,1.0,87.0,2016.0,May,20.0,9.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,67.0,,0,Transient-Party,68.0,0,0,Canceled,4/1/2016
+5790.0,Resort Hotel,1.0,190.0,2016.0,May,20.0,14.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,245.0,,0,Transient,86.0,0,0,Canceled,1/5/2016
+9024.0,Resort Hotel,1.0,87.0,2016.0,October,44.0,23.0,2.0,4.0,2.0,0.0,0.0,HB,DZA,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,143.0,,0,Transient,68.6,0,1,Check-Out,9/27/2016
+5495.0,Resort Hotel,1.0,18.0,2016.0,April,18.0,30.0,1.0,1.0,2.0,2.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,,223.0,0,Transient-Party,68.0,0,0,Check-Out,4/4/2016
+8312.0,Resort Hotel,0.0,397.0,2016.0,September,39.0,21.0,0.0,4.0,1.0,0.0,0.0,BB,CN,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,241.0,,0,Transient,230.0,0,0,Canceled,6/26/2016
+8898.0,Resort Hotel,1.0,127.0,2016.0,October,43.0,19.0,0.0,2.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,223.0,0,Transient-Party,69.43,0,0,Check-Out,9/20/2016
+2370.0,Resort Hotel,1.0,143.0,2015.0,October,41.0,10.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,96.0,,0,Transient,87.75,0,2,Check-Out,9/15/2015
+5537.0,Resort Hotel,1.0,199.0,2016.0,May,19.0,2.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,4/4/2016
+8873.0,Resort Hotel,1.0,224.0,2016.0,October,43.0,17.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,194.0,0,2,Canceled,8/30/2016
+7715.0,Resort Hotel,1.0,18.0,2016.0,August,35.0,22.0,1.0,2.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,176.25,0,0,Canceled,6/10/2016
+6768.0,Resort Hotel,1.0,255.0,2016.0,July,27.0,1.0,2.0,2.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,96.0,,0,Transient-Party,60.3,0,1,Canceled,4/1/2016
+8492.0,Resort Hotel,1.0,157.0,2016.0,October,40.0,1.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,200.57,0,0,Canceled,5/3/2016
+4305.0,Resort Hotel,1.0,219.0,2016.0,March,10.0,2.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,314.0,,0,Transient-Party,55.0,0,0,Canceled,12/2/2015
+1152.0,Resort Hotel,1.0,4.0,2015.0,August,34.0,16.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,8.0,0,1,Check-Out,7/15/2015
+2558.0,Resort Hotel,0.0,24.0,2015.0,October,43.0,22.0,1.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,F,0.0,No Deposit,240.0,,0,Transient,68.4,0,0,Canceled,8/17/2015
+9495.0,Resort Hotel,1.0,183.0,2016.0,December,49.0,3.0,2.0,1.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,C,1.0,Non Refund,,223.0,0,Transient-Party,46.0,0,0,Canceled,9/29/2016
+5683.0,Resort Hotel,1.0,203.0,2016.0,May,20.0,10.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,123.0,0,0,Canceled,2/23/2016
+6301.0,Resort Hotel,1.0,168.0,2016.0,June,23.0,1.0,2.0,8.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Canceled,4/9/2016
+4636.0,Resort Hotel,1.0,106.0,2016.0,March,13.0,24.0,1.0,3.0,2.0,0.0,0.0,FB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,171.0,,0,Transient,24.94,0,0,Canceled,1/21/2016
+9632.0,Resort Hotel,1.0,159.0,2016.0,December,52.0,22.0,0.0,2.0,3.0,1.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,57.25,0,0,Canceled,9/18/2016
+3018.0,Resort Hotel,1.0,40.0,2015.0,November,46.0,11.0,0.0,4.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,47.0,0,1,Canceled,10/8/2015
+4176.0,Resort Hotel,1.0,9.0,2016.0,February,9.0,24.0,0.0,2.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,1.0,No Deposit,38.0,,0,Transient-Party,68.0,0,0,Check-Out,12/8/2015
+6223.0,Resort Hotel,1.0,102.0,2016.0,May,22.0,28.0,2.0,5.0,2.0,1.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,3.0,No Deposit,71.0,,0,Transient,46.0,0,0,Canceled,3/1/2016
+5719.0,Resort Hotel,0.0,236.0,2016.0,May,20.0,12.0,0.0,3.0,1.0,0.0,0.0,BB,IRL,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,273.0,,0,Transient-Party,72.45,0,0,Check-Out,4/17/2016
+8160.0,Resort Hotel,0.0,336.0,2016.0,September,38.0,15.0,0.0,3.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,E,0.0,No Deposit,240.0,,0,Transient,273.0,0,0,Canceled,7/26/2016
+6178.0,Resort Hotel,1.0,135.0,2016.0,May,22.0,27.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,257.0,,0,Transient,80.0,0,0,Canceled,1/19/2016
+8163.0,Resort Hotel,0.0,336.0,2016.0,September,38.0,15.0,0.0,3.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,254.0,0,0,Canceled,6/14/2016
+8178.0,Resort Hotel,0.0,336.0,2016.0,September,38.0,15.0,1.0,3.0,1.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,2.0,No Deposit,241.0,,0,Transient,243.63,0,0,Canceled,6/9/2016
+9864.0,Resort Hotel,1.0,106.0,2017.0,January,2.0,14.0,2.0,1.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,1.0,No Deposit,240.0,,0,Transient-Party,55.25,0,1,Canceled,7/25/2016
+5615.0,Resort Hotel,1.0,154.0,2016.0,May,19.0,5.0,4.0,10.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,242.0,,0,Transient,94.0,0,1,Canceled,3/8/2016
+2789.0,Resort Hotel,1.0,155.0,2015.0,October,44.0,31.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,243.0,,0,Contract,42.23,0,0,Check-Out,10/11/2015
+3379.0,Resort Hotel,1.0,149.0,2015.0,December,49.0,5.0,2.0,1.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,5.0,,0,Transient,52.51,0,0,Check-Out,11/3/2015
+8152.0,Resort Hotel,0.0,335.0,2016.0,September,38.0,14.0,2.0,4.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,189.0,0,0,Canceled,7/22/2016
+3690.0,Resort Hotel,0.0,165.0,2015.0,December,53.0,30.0,0.0,4.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,E,0.0,No Deposit,15.0,,0,Transient,40.5,0,0,Canceled,10/9/2015
+1885.0,Resort Hotel,1.0,65.0,2015.0,September,38.0,19.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,146.0,,0,Transient,157.0,0,1,Check-Out,8/19/2015
+3674.0,Resort Hotel,0.0,165.0,2015.0,December,53.0,30.0,0.0,4.0,1.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,62.5,0,0,Canceled,9/28/2015
+8910.0,Resort Hotel,0.0,385.0,2016.0,October,43.0,19.0,1.0,4.0,2.0,0.0,0.0,BB,GBR,Groups,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,201.0,,0,Transient-Party,61.4,0,0,Check-Out,9/18/2016
+8147.0,Resort Hotel,1.0,193.0,2016.0,September,38.0,14.0,1.0,4.0,2.0,0.0,0.0,BB,POL,Online TA,TA/TO,0.0,0.0,0.0,D,D,2.0,No Deposit,242.0,,0,Transient,205.0,0,0,Canceled,2/29/2016
+4246.0,Resort Hotel,1.0,42.0,2016.0,February,9.0,27.0,1.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,80.0,0,0,Canceled,11/9/2015
+1559.0,Resort Hotel,0.0,14.0,2015.0,September,36.0,4.0,0.0,2.0,3.0,0.0,0.0,BB,IRL,Groups,TA/TO,0.0,0.0,0.0,A,C,0.0,Refundable,134.0,,0,Transient,107.0,0,0,Check-Out,7/31/2015
+2339.0,Resort Hotel,0.0,22.0,2015.0,October,41.0,9.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,242.0,,0,Transient,151.88,0,1,Canceled,8/6/2015
+6940.0,Resort Hotel,1.0,277.0,2016.0,July,29.0,12.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,58.0,0,2,Canceled,4/6/2016
+7030.0,Resort Hotel,1.0,107.0,2016.0,July,30.0,17.0,2.0,4.0,2.0,0.0,0.0,HB,PRT,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,175.0,,0,Transient,57.34,0,0,Check-Out,6/7/2016
+3222.0,Resort Hotel,0.0,15.0,2015.0,November,47.0,21.0,0.0,1.0,2.0,2.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,C,H,2.0,No Deposit,240.0,,0,Transient,45.56,0,2,Check-Out,10/25/2015
+4076.0,Resort Hotel,1.0,25.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,155.0,,0,Transient-Party,64.0,0,0,Canceled,12/2/2015
+2017.0,Resort Hotel,1.0,81.0,2015.0,September,40.0,27.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,183.0,0,1,Check-Out,8/27/2015
+7598.0,Resort Hotel,1.0,10.0,2016.0,August,34.0,16.0,0.0,2.0,2.0,0.0,1.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,314.0,,0,Transient,105.2,0,0,Check-Out,7/18/2016
+9558.0,Resort Hotel,1.0,23.0,2016.0,December,50.0,10.0,1.0,1.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,273.0,,125,Transient-Party,71.56,0,0,Check-Out,10/21/2016
+4601.0,Resort Hotel,0.0,136.0,2016.0,March,13.0,24.0,0.0,3.0,3.0,0.0,0.0,Undefined,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,C,1.0,No Deposit,240.0,,0,Transient,44.8,0,1,Canceled,12/29/2015
+5162.0,Resort Hotel,1.0,92.0,2016.0,April,17.0,19.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,375.0,,0,Transient-Party,25.0,0,0,Canceled,3/2/2016
+4359.0,Resort Hotel,1.0,30.0,2016.0,March,11.0,7.0,1.0,5.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,55.0,0,0,No-Show,12/25/2015
+7385.0,Resort Hotel,1.0,168.0,2016.0,August,32.0,6.0,2.0,6.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,242.0,,0,Transient,72.0,0,0,Canceled,5/19/2016
+9146.0,Resort Hotel,1.0,112.0,2016.0,October,44.0,29.0,2.0,1.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,90.33,0,0,Canceled,7/16/2016
+2888.0,Resort Hotel,0.0,0.0,2015.0,November,45.0,4.0,0.0,2.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,59.4,0,1,Check-Out,10/9/2015
+4002.0,Resort Hotel,1.0,111.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,6.0,,0,Transient,25.0,0,0,Canceled,11/19/2015
+6167.0,Resort Hotel,1.0,7.0,2016.0,May,22.0,27.0,0.0,1.0,1.0,0.0,0.0,HB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,Non Refund,257.0,,0,Transient,80.0,0,0,Canceled,1/19/2016
+6762.0,Resort Hotel,1.0,32.0,2016.0,June,27.0,30.0,2.0,7.0,2.0,0.0,0.0,BB,SWE,Direct,Direct,0.0,0.0,0.0,F,F,2.0,No Deposit,156.0,,0,Transient,41.33,0,2,Check-Out,5/27/2016
+6702.0,Resort Hotel,0.0,229.0,2016.0,June,26.0,25.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,36.0,,0,Transient,41.75,0,0,Check-Out,5/23/2016
+2809.0,Resort Hotel,0.0,155.0,2015.0,October,44.0,31.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,48.78,0,1,Canceled,9/3/2015
+2342.0,Resort Hotel,0.0,10.0,2015.0,October,41.0,9.0,2.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,250.0,,0,Transient,183.0,1,0,Check-Out,9/14/2015
+778.0,Resort Hotel,0.0,71.0,2015.0,July,31.0,29.0,1.0,4.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,241.0,,0,Transient,94.71,0,0,Check-Out,7/5/2015
+3437.0,Resort Hotel,1.0,81.0,2015.0,December,50.0,6.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,76.0,0,2,Canceled,10/3/2015
+7780.0,Resort Hotel,1.0,73.0,2016.0,August,35.0,26.0,2.0,2.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,253.0,,0,Transient,149.45,0,1,Canceled,3/3/2016
+9484.0,Resort Hotel,1.0,183.0,2016.0,December,49.0,3.0,2.0,1.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient,80.4,0,0,Canceled,10/8/2016
+9613.0,Resort Hotel,1.0,102.0,2016.0,December,52.0,20.0,0.0,1.0,2.0,2.0,0.0,BB,BRA,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,60.0,0,2,Canceled,10/2/2016
+5576.0,Resort Hotel,0.0,215.0,2016.0,May,19.0,2.0,1.0,3.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,75.8,0,1,Canceled,3/29/2016
+1848.0,Resort Hotel,0.0,110.0,2015.0,September,38.0,17.0,1.0,3.0,1.0,0.0,0.0,BB,NLD,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,147.0,,0,Transient,87.91,0,1,Check-Out,8/17/2015
+5747.0,Resort Hotel,1.0,236.0,2016.0,May,20.0,12.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,0,Transient,67.05,0,0,Canceled,10/16/2015
+7919.0,Resort Hotel,1.0,241.0,2016.0,September,36.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,160.0,0,0,Canceled,7/4/2016
+3648.0,Resort Hotel,0.0,165.0,2015.0,December,53.0,30.0,0.0,4.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,334.0,281.0,0,Transient-Party,40.0,0,0,Check-Out,11/16/2015
+1097.0,Resort Hotel,0.0,0.0,2015.0,August,33.0,14.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,E,0.0,No Deposit,241.0,,0,Transient,90.71,0,0,Check-Out,7/14/2015
+7968.0,Resort Hotel,1.0,223.0,2016.0,September,37.0,5.0,1.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,307.0,,0,Transient-Party,144.0,0,0,Canceled,5/3/2016
+5131.0,Resort Hotel,0.0,185.0,2016.0,April,17.0,18.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,,82.0,0,Transient,30.0,0,0,Canceled,2/29/2016
+3843.0,Resort Hotel,1.0,11.0,2016.0,January,4.0,23.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,40.93,0,1,Canceled,11/5/2015
+7967.0,Resort Hotel,1.0,77.0,2016.0,September,37.0,5.0,1.0,2.0,3.0,1.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,117.9,0,1,Canceled,1/15/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,65.5,0,2,Canceled,1/16/2017
+9628.0,Resort Hotel,1.0,75.0,2016.0,December,52.0,21.0,2.0,4.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,60.0,0,2,Canceled,9/29/2016
+1027.0,Resort Hotel,1.0,60.0,2015.0,August,33.0,10.0,3.0,5.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,240.0,,0,Transient,82.0,0,2,Check-Out,7/15/2015
+5101.0,Resort Hotel,1.0,53.0,2016.0,April,17.0,18.0,1.0,0.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,96.0,,0,Transient,82.0,0,0,Canceled,11/3/2015
+9659.0,Resort Hotel,1.0,91.0,2016.0,December,52.0,23.0,2.0,4.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,G,G,3.0,No Deposit,,,0,Transient,50.4,0,2,Canceled,10/9/2015
+9211.0,Resort Hotel,1.0,13.0,2016.0,November,45.0,3.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,71.04,0,2,Canceled,3/11/2016
+6667.0,Resort Hotel,1.0,295.0,2016.0,June,26.0,22.0,1.0,4.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/18/2016
+2262.0,Resort Hotel,0.0,44.0,2015.0,October,41.0,8.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,113.0,0,0,Canceled,8/21/2015
+4954.0,Resort Hotel,0.0,190.0,2016.0,April,16.0,10.0,2.0,5.0,1.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,48.0,0,3,Canceled,2/21/2016
+8249.0,Resort Hotel,1.0,46.0,2016.0,September,39.0,19.0,1.0,0.0,2.0,0.0,0.0,BB,CYP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,256.0,0,0,Canceled,7/31/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,46.8,0,0,Canceled,5/12/2016
+9074.0,Resort Hotel,1.0,0.0,2016.0,October,44.0,27.0,0.0,1.0,1.0,0.0,0.0,BB,BEL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,66.0,0,0,Canceled,10/14/2015
+8354.0,Resort Hotel,1.0,36.0,2016.0,September,39.0,23.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,209.71,0,0,Canceled,3/22/2016
+1264.0,Resort Hotel,0.0,71.0,2015.0,August,34.0,21.0,2.0,7.0,2.0,0.0,0.0,BB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,126.3,0,2,Check-Out,7/20/2015
+9919.0,Resort Hotel,1.0,5.0,2017.0,January,4.0,23.0,1.0,1.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,D,0.0,No Deposit,,,0,Transient-Party,63.0,0,0,Canceled,10/24/2016
+,,,,,,,,,,,,,,,,,,,,,,,,11.0,,0,Transient,30.0,0,0,Canceled,10/18/2016
+3859.0,Resort Hotel,0.0,1.0,2016.0,January,5.0,29.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,G,G,0.0,No Deposit,250.0,,0,Transient,47.4,0,1,Canceled,11/2/2015
+5395.0,Resort Hotel,1.0,168.0,2016.0,April,18.0,28.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,68.0,,0,Transient,84.0,0,0,Canceled,1/22/2016
+1131.0,Resort Hotel,0.0,93.0,2015.0,August,33.0,15.0,2.0,4.0,2.0,0.0,0.0,BB,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,156.0,,0,Contract,79.5,0,0,Canceled,5/23/2015
+4822.0,Resort Hotel,1.0,61.0,2016.0,April,15.0,3.0,2.0,1.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,32.4,0,1,Canceled,2/2/2016
+8938.0,Resort Hotel,1.0,130.0,2016.0,October,43.0,21.0,0.0,1.0,3.0,1.0,0.0,BB,SWE,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,,223.0,0,Transient-Party,62.0,0,0,Check-Out,9/19/2016
+5394.0,Resort Hotel,1.0,168.0,2016.0,April,18.0,28.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,68.0,,0,Transient,84.0,0,0,Canceled,1/22/2016
+6834.0,Resort Hotel,0.0,255.0,2016.0,July,28.0,4.0,4.0,10.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,223.0,0,Transient-Party,45.0,0,0,Check-Out,5/30/2016
+3428.0,Resort Hotel,1.0,81.0,2015.0,December,50.0,6.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,45.0,0,0,No-Show,10/24/2015
+1790.0,Resort Hotel,0.0,135.0,2015.0,September,38.0,14.0,8.0,20.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,175.0,0,1,Canceled,6/22/2015
+6672.0,Resort Hotel,1.0,155.0,2016.0,June,26.0,22.0,4.0,10.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,298.0,,0,Transient,85.0,0,0,Check-Out,5/18/2016
+5814.0,Resort Hotel,0.0,211.0,2016.0,May,20.0,14.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Canceled,3/16/2016
+7092.0,Resort Hotel,1.0,8.0,2016.0,July,30.0,21.0,0.0,1.0,1.0,0.0,0.0,BB,,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,110.0,0,1,Canceled,1/15/2016
+,,,,,,,,,,,,,,,,,,,,,,,,242.0,,0,Transient,86.16,0,1,Canceled,7/26/2016
+2455.0,Resort Hotel,0.0,2.0,2015.0,October,42.0,17.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,115.4,0,2,Check-Out,9/14/2015
+1437.0,Resort Hotel,1.0,24.0,2015.0,August,35.0,29.0,2.0,3.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,242.0,,0,Transient,153.0,0,1,Canceled,7/10/2015
+6336.0,Resort Hotel,0.0,219.0,2016.0,June,23.0,3.0,4.0,10.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,2.0,No Deposit,240.0,,0,Transient,113.0,0,0,Canceled,3/28/2016
+6530.0,Resort Hotel,0.0,246.0,2016.0,June,25.0,15.0,2.0,9.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,315.0,,0,Transient-Party,42.0,0,0,Check-Out,5/15/2016
+5920.0,Resort Hotel,1.0,95.0,2016.0,May,21.0,16.0,1.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,250.0,,0,Transient-Party,62.05,0,2,Check-Out,4/28/2016
+1497.0,Resort Hotel,0.0,0.0,2015.0,September,36.0,1.0,0.0,5.0,2.0,0.0,0.0,HB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,,,0,Transient,162.0,0,2,Check-Out,7/31/2015
+4290.0,Resort Hotel,1.0,219.0,2016.0,March,10.0,2.0,2.0,5.0,2.0,0.0,0.0,HB,CN,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,6.0,,0,Transient,54.68,0,1,Canceled,10/29/2015
+1332.0,Resort Hotel,0.0,11.0,2015.0,August,35.0,24.0,1.0,4.0,2.0,0.0,1.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,5.0,,0,Transient,0.0,0,0,Check-Out,7/20/2015
+9951.0,Resort Hotel,1.0,33.0,2017.0,January,4.0,28.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,248.0,,0,Transient,46.0,0,0,Canceled,10/18/2016
+3686.0,Resort Hotel,0.0,53.0,2015.0,December,53.0,30.0,0.0,3.0,2.0,2.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,C,C,0.0,No Deposit,15.0,,0,Transient,32.62,0,1,Canceled,10/20/2015
+8675.0,Resort Hotel,1.0,131.0,2016.0,October,42.0,9.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,199.0,0,0,Canceled,7/24/2016
+2322.0,Resort Hotel,1.0,78.0,2015.0,October,41.0,9.0,1.0,2.0,2.0,0.0,0.0,FB,ESP,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient,131.0,0,0,Check-Out,9/5/2015
+865.0,Resort Hotel,1.0,53.0,2015.0,August,31.0,1.0,3.0,6.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,8.0,,0,Transient,71.55,1,0,Check-Out,7/7/2015
+3771.0,Resort Hotel,1.0,103.0,2016.0,January,2.0,3.0,2.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,53.0,0,1,Check-Out,11/15/2015
+7965.0,Resort Hotel,1.0,10.0,2016.0,September,37.0,5.0,1.0,1.0,2.0,1.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,G,G,0.0,No Deposit,250.0,,0,Transient,222.0,0,0,Canceled,5/17/2016
+1067.0,Resort Hotel,1.0,68.0,2015.0,August,33.0,12.0,2.0,6.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,250.0,,0,Transient,213.75,0,0,Check-Out,7/19/2015
+840.0,Resort Hotel,0.0,80.0,2015.0,July,31.0,31.0,2.0,4.0,2.0,0.0,0.0,BB,BEL,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,123.0,0,0,Canceled,5/26/2015
+7518.0,Resort Hotel,1.0,140.0,2016.0,August,33.0,13.0,1.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,118.0,0,1,Canceled,1/15/2016
+9393.0,Resort Hotel,1.0,32.0,2016.0,November,48.0,23.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,68.0,,0,Transient,72.0,0,0,Canceled,12/17/2015
+1972.0,Resort Hotel,0.0,2.0,2015.0,September,39.0,25.0,0.0,1.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,5.0,,0,Transient-Party,96.3,0,1,Check-Out,8/24/2015
+8506.0,Resort Hotel,1.0,403.0,2016.0,October,40.0,1.0,6.0,15.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,242.0,,0,Transient,239.0,0,1,Canceled,8/12/2016
+8978.0,Resort Hotel,1.0,135.0,2016.0,October,43.0,22.0,2.0,2.0,2.0,0.0,0.0,BB,SWE,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,140.0,0,1,Canceled,1/19/2016
+9708.0,Resort Hotel,1.0,44.0,2016.0,December,53.0,27.0,0.0,3.0,2.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,68.0,0,0,Canceled,7/13/2016
+9177.0,Resort Hotel,1.0,1.0,2016.0,November,45.0,1.0,0.0,1.0,1.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,15.0,,0,Transient,80.0,0,0,Canceled,1/22/2016
+2539.0,Resort Hotel,1.0,19.0,2015.0,October,43.0,21.0,0.0,2.0,1.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,243.0,,0,Transient,79.5,0,0,Canceled,6/19/2015
+4237.0,Resort Hotel,1.0,123.0,2016.0,February,9.0,27.0,1.0,1.0,2.0,0.0,0.0,Undefined,ESP,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,8.0,,0,Transient,47.0,1,1,Check-Out,12/22/2015
+1247.0,Resort Hotel,1.0,36.0,2015.0,August,34.0,21.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,164.0,0,0,Check-Out,7/23/2015
+2953.0,Resort Hotel,0.0,36.0,2015.0,November,45.0,7.0,2.0,6.0,1.0,0.0,0.0,BB,DEU,Corporate,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,15.0,,0,Transient,44.5,0,0,Canceled,7/17/2015
+1110.0,Resort Hotel,0.0,6.0,2015.0,August,33.0,14.0,2.0,3.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,175.71,0,0,Check-Out,7/20/2015
+6245.0,Resort Hotel,1.0,237.0,2016.0,May,23.0,30.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,80.0,0,0,Canceled,4/30/2016
+9125.0,Resort Hotel,1.0,178.0,2016.0,October,44.0,28.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,156.14,0,0,Canceled,7/4/2016
+2236.0,Resort Hotel,1.0,4.0,2015.0,October,41.0,7.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,242.0,,0,Transient,96.33,0,1,No-Show,8/31/2015
+5864.0,Resort Hotel,1.0,137.0,2016.0,May,21.0,15.0,2.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,273.0,,0,Transient,50.85,0,0,Canceled,3/18/2016
+7529.0,Resort Hotel,1.0,61.0,2016.0,August,33.0,13.0,2.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,225.0,0,0,Canceled,5/30/2016
+9470.0,Resort Hotel,1.0,128.0,2016.0,December,49.0,3.0,0.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,101,Transient-Party,67.99,0,0,Check-Out,10/16/2016
+5693.0,Resort Hotel,1.0,203.0,2016.0,May,20.0,10.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,0,Transient,72.0,0,0,Canceled,1/14/2016
+7093.0,Resort Hotel,1.0,55.0,2016.0,July,30.0,21.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,72.0,0,1,Canceled,5/25/2016
+3373.0,Resort Hotel,1.0,44.0,2015.0,December,49.0,5.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,56.0,0,1,Canceled,5/18/2015
+767.0,Resort Hotel,0.0,47.0,2015.0,July,31.0,28.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,304.0,,0,Transient,75.0,0,0,Check-Out,7/2/2015
+2977.0,Resort Hotel,0.0,0.0,2015.0,November,46.0,9.0,1.0,1.0,3.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,1.0,No Deposit,156.0,,0,Transient,65.45,0,0,Check-Out,10/15/2015
+5591.0,Resort Hotel,1.0,108.0,2016.0,May,19.0,3.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,4/6/2016
+1620.0,Resort Hotel,0.0,110.0,2015.0,September,37.0,6.0,2.0,3.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,177.14,0,0,Canceled,7/15/2015
+7741.0,Resort Hotel,1.0,129.0,2016.0,August,35.0,23.0,2.0,7.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,201.0,0,0,Canceled,6/24/2016
+6649.0,Resort Hotel,0.0,322.0,2016.0,June,26.0,22.0,0.0,3.0,2.0,0.0,0.0,HB,POL,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,54.5,0,0,Canceled,5/13/2016
+1388.0,Resort Hotel,1.0,164.0,2015.0,August,35.0,28.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,153.0,0,0,Canceled,7/7/2015
+1054.0,Resort Hotel,0.0,84.0,2015.0,August,33.0,11.0,2.0,8.0,2.0,1.0,0.0,BB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,240.0,,0,Transient,123.0,0,0,Check-Out,7/15/2015
+2782.0,Resort Hotel,1.0,155.0,2015.0,October,44.0,31.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,D,0.0,No Deposit,142.0,,0,Contract,90.74,0,0,Check-Out,10/4/2015
+1432.0,Resort Hotel,0.0,47.0,2015.0,August,35.0,29.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,241.0,,0,Transient,117.81,0,0,Check-Out,7/26/2015
+9685.0,Resort Hotel,1.0,62.0,2016.0,December,53.0,26.0,1.0,1.0,2.0,2.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,,,0,Transient-Party,49.0,0,0,Check-Out,10/24/2016
+9028.0,Resort Hotel,1.0,63.0,2016.0,October,44.0,24.0,1.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,80.0,0,1,Canceled,1/28/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,52.46,0,1,Canceled,10/9/2016
+2395.0,Resort Hotel,0.0,1.0,2015.0,October,42.0,11.0,2.0,0.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,103.85,0,1,Canceled,5/23/2015
+5934.0,Resort Hotel,0.0,189.0,2016.0,May,21.0,16.0,3.0,8.0,2.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,196.0,,0,Transient,53.1,0,0,Canceled,3/14/2016
+7969.0,Resort Hotel,1.0,183.0,2016.0,September,37.0,5.0,1.0,5.0,1.0,0.0,0.0,BB,CN,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,307.0,,0,Transient-Party,144.0,0,0,Canceled,5/3/2016
+3286.0,Resort Hotel,0.0,52.0,2015.0,December,49.0,3.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,314.0,,0,Contract,67.15,0,1,Check-Out,10/25/2015
+2979.0,Resort Hotel,0.0,0.0,2015.0,November,46.0,9.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,C,1.0,No Deposit,,94.0,0,Transient,37.0,0,0,Canceled,10/5/2015
+7732.0,Resort Hotel,1.0,80.0,2016.0,August,35.0,23.0,0.0,2.0,2.0,0.0,0.0,BB,URY,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,250.0,,0,Transient,212.14,0,0,Canceled,6/30/2016
+7260.0,Resort Hotel,1.0,87.0,2016.0,July,32.0,31.0,2.0,0.0,2.0,1.0,0.0,BB,BRA,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,120.0,0,0,Canceled,5/5/2016
+6977.0,Resort Hotel,1.0,23.0,2016.0,July,29.0,15.0,0.0,2.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,147.0,,0,Transient-Party,59.3,0,1,Canceled,1/5/2016
+7796.0,Resort Hotel,1.0,42.0,2016.0,August,35.0,27.0,2.0,2.0,2.0,2.0,0.0,BB,MAR,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,,,0,Transient,233.0,0,1,Canceled,7/2/2016
+8184.0,Resort Hotel,0.0,336.0,2016.0,September,38.0,15.0,1.0,3.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,262.0,0,0,Canceled,3/14/2016
+1871.0,Resort Hotel,0.0,4.0,2015.0,September,38.0,19.0,1.0,1.0,1.0,0.0,0.0,HB,FRA,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,167.25,0,0,Check-Out,8/18/2015
+1214.0,Resort Hotel,0.0,92.0,2015.0,August,34.0,18.0,2.0,8.0,2.0,2.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,,178.0,0,Transient,139.0,0,0,Canceled,7/7/2015
+7053.0,Resort Hotel,1.0,99.0,2016.0,July,30.0,18.0,1.0,4.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,96.0,,0,Transient,110.0,0,0,Canceled,12/1/2015
+,,,,,,,,,,,,,,,,,,,,,,,,242.0,,0,Transient,55.1,0,1,Canceled,1/29/2017
+899.0,Resort Hotel,0.0,13.0,2015.0,August,32.0,4.0,0.0,4.0,2.0,0.0,0.0,HB,PRT,Direct,Direct,0.0,0.0,0.0,C,C,1.0,No Deposit,240.0,,0,Transient,80.1,0,0,Check-Out,7/6/2015
+2549.0,Resort Hotel,0.0,34.0,2015.0,October,43.0,21.0,2.0,5.0,2.0,0.0,0.0,BB,LUX,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,76.67,0,1,Check-Out,9/20/2015
+4168.0,Resort Hotel,1.0,24.0,2016.0,February,9.0,22.0,1.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,134.0,,0,Transient-Party,70.0,0,0,Canceled,11/30/2015
+3670.0,Resort Hotel,0.0,165.0,2015.0,December,53.0,30.0,0.0,4.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,54.4,0,1,Check-Out,11/8/2015
+9068.0,Resort Hotel,1.0,188.0,2016.0,October,44.0,26.0,2.0,6.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,96.0,,0,Transient-Party,70.5,0,1,Check-Out,9/25/2016
+8256.0,Resort Hotel,1.0,244.0,2016.0,September,39.0,20.0,2.0,5.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,204.0,0,0,Canceled,6/2/2016
+6864.0,Resort Hotel,1.0,14.0,2016.0,July,28.0,8.0,0.0,2.0,2.0,0.0,0.0,BB,AUT,Online TA,TA/TO,0.0,0.0,0.0,A,A,2.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,5/29/2016
+5268.0,Resort Hotel,1.0,17.0,2016.0,April,17.0,23.0,2.0,2.0,2.0,2.0,0.0,HB,GBR,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,67.25,0,0,Canceled,3/8/2016
+5817.0,Resort Hotel,0.0,211.0,2016.0,May,20.0,14.0,1.0,1.0,1.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,298.0,,0,Transient-Party,54.5,0,0,Check-Out,4/18/2016
+5969.0,Resort Hotel,1.0,40.0,2016.0,May,21.0,18.0,0.0,2.0,1.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient-Party,85.33,0,0,Check-Out,4/25/2016
+4844.0,Resort Hotel,0.0,171.0,2016.0,April,15.0,4.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,Non Refund,134.0,,0,Transient-Party,70.0,0,0,Check-Out,2/14/2016
+7682.0,Resort Hotel,1.0,32.0,2016.0,August,34.0,20.0,2.0,4.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,151.43,0,2,Canceled,3/20/2016
+7566.0,Resort Hotel,1.0,135.0,2016.0,August,34.0,15.0,1.0,3.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,139.5,0,0,Canceled,6/13/2016
+5970.0,Resort Hotel,1.0,40.0,2016.0,May,21.0,18.0,0.0,2.0,1.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient-Party,85.33,0,0,Check-Out,4/25/2016
+1296.0,Resort Hotel,0.0,6.0,2015.0,August,35.0,23.0,2.0,2.0,2.0,0.0,0.0,BB,ESP,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,,,0,Transient,128.25,0,1,Check-Out,7/25/2015
+5594.0,Resort Hotel,0.0,288.0,2016.0,May,19.0,3.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,298.0,,0,Transient-Party,54.5,0,0,Check-Out,4/6/2016
+4802.0,Resort Hotel,1.0,45.0,2016.0,March,14.0,31.0,4.0,13.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,134.0,,0,Transient-Party,68.0,0,0,Canceled,2/5/2016
+4848.0,Resort Hotel,0.0,171.0,2016.0,April,15.0,4.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,Non Refund,134.0,,0,Transient-Party,68.0,0,0,Canceled,2/5/2016
+3968.0,Resort Hotel,1.0,64.0,2016.0,February,7.0,11.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,342.0,0,Transient-Party,32.0,0,0,Check-Out,11/22/2015
+7874.0,Resort Hotel,1.0,34.0,2016.0,August,36.0,31.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Direct,Direct,0.0,0.0,0.0,A,C,1.0,No Deposit,,,0,Transient-Party,126.0,0,0,Canceled,7/13/2016
+1094.0,Resort Hotel,0.0,0.0,2015.0,August,33.0,14.0,0.0,1.0,2.0,2.0,0.0,BB,CHE,Direct,Direct,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,80.1,0,0,Check-Out,7/13/2015
+5721.0,Resort Hotel,0.0,236.0,2016.0,May,20.0,12.0,0.0,3.0,2.0,0.0,0.0,BB,GBR,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,0,Transient-Party,68.66,0,0,Canceled,1/14/2016
+3797.0,Resort Hotel,0.0,59.0,2016.0,January,2.0,8.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,281.0,,0,Contract,53.0,0,0,Canceled,10/22/2015
+8448.0,Resort Hotel,1.0,127.0,2016.0,September,40.0,29.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,281.0,0,0,Canceled,5/13/2016
+2361.0,Resort Hotel,0.0,4.0,2015.0,October,41.0,10.0,1.0,1.0,2.0,1.0,0.0,BB,ESP,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,240.0,,0,Transient,131.0,0,2,Canceled,7/14/2015
+,,,,,,,,,,,,,,,,,,,,,,,,,94.0,0,Transient,35.0,0,0,Canceled,1/20/2017
+4361.0,Resort Hotel,1.0,30.0,2016.0,March,11.0,7.0,1.0,5.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,55.0,0,0,No-Show,12/25/2015
+9802.0,Resort Hotel,1.0,149.0,2017.0,January,1.0,3.0,0.0,5.0,2.0,2.0,0.0,BB,ITA,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,58.0,0,0,Canceled,5/2/2016
+8765.0,Resort Hotel,0.0,364.0,2016.0,October,42.0,12.0,1.0,4.0,2.0,0.0,0.0,BB,GBR,Groups,Corporate,0.0,0.0,0.0,A,A,3.0,No Deposit,1.0,,0,Transient,89.0,0,0,Canceled,2/9/2016
+1354.0,Resort Hotel,0.0,21.0,2015.0,August,35.0,26.0,0.0,0.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,240.0,,0,Transient,179.1,0,1,Canceled,4/23/2015
+1411.0,Resort Hotel,0.0,25.0,2015.0,August,35.0,28.0,2.0,2.0,2.0,0.0,0.0,FB,FRA,Direct,Direct,0.0,0.0,0.0,F,F,1.0,No Deposit,240.0,,0,Transient,135.0,0,1,Canceled,7/6/2015
+9866.0,Resort Hotel,1.0,45.0,2017.0,January,2.0,14.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,53.79,0,1,Canceled,7/25/2016
+8779.0,Resort Hotel,1.0,0.0,2016.0,October,42.0,13.0,0.0,1.0,1.0,0.0,0.0,BB,,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,1.0,,0,Transient,89.0,0,0,Canceled,2/9/2016
+4535.0,Resort Hotel,0.0,162.0,2016.0,March,13.0,24.0,0.0,3.0,3.0,0.0,0.0,Undefined,ESP,Groups,TA/TO,0.0,0.0,0.0,A,C,1.0,No Deposit,240.0,,0,Transient,36.45,0,1,Canceled,12/12/2015
+9803.0,Resort Hotel,1.0,44.0,2017.0,January,1.0,3.0,2.0,5.0,2.0,0.0,0.0,BB,LUX,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,68.0,0,0,Canceled,8/20/2016
+5846.0,Resort Hotel,1.0,9.0,2016.0,May,21.0,15.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,4/18/2016
+8646.0,Resort Hotel,1.0,393.0,2016.0,October,41.0,8.0,2.0,2.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,72.9,0,2,Canceled,10/21/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,2,Canceled,10/16/2016
+4974.0,Resort Hotel,1.0,212.0,2016.0,April,16.0,11.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,D,D,0.0,Non Refund,68.0,,0,Transient,70.0,0,0,Canceled,1/21/2016
+9598.0,Resort Hotel,1.0,206.0,2016.0,December,51.0,17.0,6.0,12.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,11.0,,0,Transient,37.0,0,0,Canceled,7/18/2016
+9463.0,Resort Hotel,1.0,92.0,2016.0,December,49.0,2.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,101,Transient-Party,44.81,0,0,Check-Out,10/16/2016
+2559.0,Resort Hotel,0.0,36.0,2015.0,October,43.0,22.0,1.0,3.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,147.0,,0,Transient,55.79,0,0,Check-Out,9/20/2015
+3350.0,Resort Hotel,1.0,60.0,2015.0,December,49.0,5.0,2.0,1.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,66.0,0,0,No-Show,10/22/2015
+9119.0,Resort Hotel,1.0,79.0,2016.0,October,44.0,28.0,1.0,2.0,2.0,0.0,0.0,HB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,250.0,,0,Transient,92.1,0,0,Canceled,6/16/2016
+3080.0,Resort Hotel,1.0,38.0,2015.0,November,46.0,14.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,134.0,,0,Transient,92.0,0,0,Canceled,8/14/2015
+4949.0,Resort Hotel,0.0,275.0,2016.0,April,16.0,10.0,2.0,5.0,1.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,98.0,0,0,Canceled,2/15/2016
+9591.0,Resort Hotel,1.0,79.0,2016.0,December,51.0,17.0,2.0,2.0,2.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,A,A,2.0,No Deposit,11.0,,0,Transient,37.0,0,0,Canceled,7/18/2016
+7836.0,Resort Hotel,1.0,25.0,2016.0,August,36.0,29.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,194.0,0,0,Canceled,7/2/2016
+5998.0,Resort Hotel,0.0,274.0,2016.0,May,21.0,19.0,2.0,6.0,2.0,0.0,0.0,BB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient-Party,85.33,0,0,Check-Out,4/25/2016
+9507.0,Resort Hotel,1.0,102.0,2016.0,December,50.0,4.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,10/16/2016
+9434.0,Resort Hotel,1.0,152.0,2016.0,November,49.0,27.0,2.0,0.0,1.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient-Party,55.0,0,0,Canceled,9/29/2016
+5532.0,Resort Hotel,0.0,199.0,2016.0,May,19.0,2.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,,223.0,0,Transient-Party,60.0,0,0,Check-Out,4/3/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,78.0,0,1,Canceled,1/15/2017
+7908.0,Resort Hotel,1.0,138.0,2016.0,September,36.0,2.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,F,F,0.0,No Deposit,240.0,,0,Transient,224.43,0,0,Canceled,4/30/2016
+3677.0,Resort Hotel,0.0,165.0,2015.0,December,53.0,30.0,0.0,4.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,185.0,281.0,0,Transient-Party,52.2,0,0,Check-Out,11/17/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,48.0,0,0,Canceled,4/14/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient-Party,87.0,0,0,Canceled,9/6/2016
+2839.0,Resort Hotel,0.0,1.0,2015.0,November,45.0,1.0,1.0,0.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,D,1.0,No Deposit,240.0,,0,Transient,79.83,0,1,Canceled,6/15/2015
+5066.0,Resort Hotel,0.0,183.0,2016.0,April,16.0,16.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,310.0,,0,Transient,52.0,0,0,Canceled,11/20/2015
+6586.0,Resort Hotel,1.0,81.0,2016.0,June,26.0,19.0,2.0,1.0,2.0,1.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/16/2016
+2913.0,Resort Hotel,0.0,35.0,2015.0,November,45.0,6.0,4.0,7.0,1.0,0.0,0.0,BB,AUT,Corporate,Corporate,0.0,0.0,0.0,E,E,2.0,No Deposit,241.0,,0,Transient,59.29,0,1,Check-Out,10/7/2015
+908.0,Resort Hotel,0.0,65.0,2015.0,August,32.0,5.0,0.0,0.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,I,0.0,No Deposit,240.0,,0,Transient,123.0,0,0,Check-Out,7/10/2015
+5727.0,Resort Hotel,0.0,236.0,2016.0,May,20.0,12.0,0.0,3.0,1.0,0.0,0.0,BB,GBR,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,273.0,,0,Transient-Party,68.66,0,0,Canceled,1/14/2016
+8923.0,Resort Hotel,1.0,386.0,2016.0,October,43.0,20.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,164.0,0,0,Canceled,8/7/2016
+9794.0,Resort Hotel,1.0,47.0,2017.0,January,1.0,2.0,1.0,4.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,60.0,0,1,Canceled,10/1/2016
+5539.0,Resort Hotel,1.0,199.0,2016.0,May,19.0,2.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,223.0,0,Transient-Party,46.0,0,0,Canceled,3/24/2016
+9697.0,Resort Hotel,1.0,126.0,2016.0,December,53.0,26.0,2.0,5.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient-Party,89.0,0,0,Canceled,7/11/2016
+8513.0,Resort Hotel,1.0,103.0,2016.0,October,41.0,3.0,1.0,2.0,2.0,2.0,0.0,BB,FIN,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,248.0,0,1,Canceled,8/20/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,42.0,0,0,Canceled,10/5/2016
+9978.0,Resort Hotel,1.0,76.0,2017.0,February,5.0,1.0,0.0,1.0,2.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,368.0,,0,Transient-Party,38.0,0,0,Canceled,10/21/2016
+6824.0,Resort Hotel,1.0,166.0,2016.0,July,28.0,4.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,48.72,0,1,Canceled,1/5/2016
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,Transient-Party,64.0,0,0,Canceled,11/23/2016
+7173.0,Resort Hotel,1.0,262.0,2016.0,July,31.0,25.0,1.0,4.0,2.0,0.0,1.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,C,3.0,No Deposit,240.0,,0,Transient,119.0,0,0,Canceled,5/11/2016
+4081.0,Resort Hotel,0.0,112.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,Undefined,ESP,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,155.0,,0,Transient-Party,64.0,0,0,Check-Out,12/7/2015
+8228.0,Resort Hotel,1.0,60.0,2016.0,September,39.0,19.0,1.0,2.0,2.0,0.0,0.0,BB,TUR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,40.0,,0,Transient,132.56,0,2,Check-Out,8/17/2016
+3825.0,Resort Hotel,0.0,23.0,2016.0,January,3.0,14.0,0.0,1.0,2.0,0.0,0.0,BB,USA,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,334.0,281.0,0,Transient-Party,48.0,0,0,Check-Out,11/15/2015
+2119.0,Resort Hotel,0.0,115.0,2015.0,October,40.0,2.0,2.0,3.0,2.0,2.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,,,0,Transient,193.0,1,0,Check-Out,8/27/2015
+5278.0,Resort Hotel,1.0,95.0,2016.0,April,17.0,23.0,4.0,10.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,70.4,0,2,Canceled,8/15/2015
+6269.0,Resort Hotel,1.0,46.0,2016.0,May,23.0,31.0,2.0,7.0,2.0,0.0,0.0,BB,CHE,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/2/2016
+6014.0,Resort Hotel,1.0,178.0,2016.0,May,21.0,20.0,4.0,7.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,71.0,,0,Transient,58.0,0,0,Canceled,2/22/2016
+5275.0,Resort Hotel,1.0,103.0,2016.0,April,17.0,23.0,4.0,6.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,42.69,0,0,Canceled,9/1/2015
+2494.0,Resort Hotel,0.0,47.0,2015.0,October,43.0,19.0,1.0,4.0,2.0,0.0,0.0,HB,ESP,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,146.0,1,0,Check-Out,9/13/2015
+2522.0,Resort Hotel,0.0,75.0,2015.0,October,43.0,20.0,0.0,5.0,3.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,240.0,,0,Transient,73.8,0,1,Canceled,5/9/2015
+7414.0,Resort Hotel,1.0,60.0,2016.0,August,33.0,8.0,1.0,3.0,2.0,2.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,C,C,0.0,No Deposit,,,0,Transient-Party,92.0,0,0,Check-Out,6/25/2016
+7410.0,Resort Hotel,1.0,245.0,2016.0,August,33.0,8.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,,,0,Transient-Party,92.0,0,0,Check-Out,6/25/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,55.8,0,2,Canceled,9/30/2016
+4903.0,Resort Hotel,1.0,23.0,2016.0,April,15.0,7.0,0.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,56.4,1,1,Check-Out,2/19/2016
+,,,,,,,,,,,,,,,,,,,,,,,,241.0,,0,Transient,43.65,0,1,Canceled,11/7/2016
+5887.0,Resort Hotel,0.0,213.0,2016.0,May,21.0,16.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,298.0,,0,Transient-Party,86.0,0,0,Canceled,3/18/2016
+764.0,Resort Hotel,1.0,11.0,2015.0,July,31.0,28.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,0.0,0,0,Check-Out,7/1/2015
+2628.0,Resort Hotel,1.0,148.0,2015.0,October,43.0,24.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient,126.0,0,0,Canceled,8/22/2015
+1307.0,Resort Hotel,0.0,20.0,2015.0,August,35.0,23.0,2.0,5.0,2.0,0.0,0.0,HB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,154.5,1,2,Check-Out,7/21/2015
+1113.0,Resort Hotel,1.0,22.0,2015.0,August,33.0,14.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,100.86,0,0,Check-Out,7/20/2015
+7670.0,Resort Hotel,1.0,166.0,2016.0,August,34.0,19.0,2.0,7.0,2.0,0.0,0.0,BB,ITA,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,108.0,0,2,Canceled,6/28/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,81.5,0,3,Canceled,11/6/2016
+3287.0,Resort Hotel,0.0,108.0,2015.0,December,49.0,3.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,171.0,,0,Transient,88.67,0,0,Check-Out,10/25/2015
+4228.0,Resort Hotel,0.0,123.0,2016.0,February,9.0,27.0,1.0,1.0,2.0,0.0,0.0,FB,ESP,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,196.0,,0,Transient,25.0,0,0,Check-Out,12/18/2015
+1221.0,Resort Hotel,0.0,61.0,2015.0,August,34.0,19.0,1.0,4.0,3.0,0.0,0.0,HB,ESP,Direct,Direct,0.0,0.0,0.0,A,D,0.0,No Deposit,67.0,,0,Transient,96.3,0,0,Check-Out,7/24/2015
+3787.0,Resort Hotel,0.0,85.0,2016.0,January,2.0,6.0,0.0,4.0,2.0,0.0,0.0,BB,BRA,Online TA,TA/TO,0.0,0.0,0.0,D,D,2.0,No Deposit,281.0,,0,Transient-Party,40.0,0,0,Canceled,10/10/2015
+8025.0,Resort Hotel,1.0,211.0,2016.0,September,37.0,7.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,266.5,0,0,Canceled,4/19/2016
+,,,,,,,,,,,,,,,,,,,,,,,,134.0,,0,Transient-Party,42.0,0,0,Canceled,12/2/2016
+8636.0,Resort Hotel,1.0,19.0,2016.0,October,41.0,8.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,5.0,,0,Transient,154.4,0,0,Canceled,8/5/2016
+7389.0,Resort Hotel,1.0,47.0,2016.0,August,33.0,7.0,1.0,0.0,3.0,1.0,0.0,BB,ITA,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,72.0,0,1,Canceled,9/17/2015
+3298.0,Resort Hotel,0.0,22.0,2015.0,December,49.0,4.0,2.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,208.0,,0,Transient-Party,0.0,0,0,Canceled,10/2/2015
+895.0,Resort Hotel,0.0,0.0,2015.0,August,32.0,4.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,C,0.0,No Deposit,240.0,,0,Transient,88.2,0,1,Check-Out,7/6/2015
+4468.0,Resort Hotel,0.0,166.0,2016.0,March,12.0,19.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,308.0,,122,Transient-Party,136.5,0,0,Check-Out,1/3/2016
+2136.0,Resort Hotel,1.0,87.0,2015.0,October,40.0,3.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient,112.34,0,0,Canceled,7/17/2015
+6964.0,Resort Hotel,1.0,72.0,2016.0,July,29.0,14.0,2.0,5.0,2.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,54.5,0,0,Check-Out,5/30/2016
+5620.0,Resort Hotel,1.0,81.0,2016.0,May,19.0,6.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,54.5,0,0,Check-Out,4/6/2016
+5476.0,Resort Hotel,1.0,76.0,2016.0,April,18.0,29.0,2.0,6.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,65.5,0,0,Canceled,3/8/2016
+6308.0,Resort Hotel,0.0,237.0,2016.0,June,23.0,2.0,4.0,10.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Canceled,4/9/2016
+2177.0,Resort Hotel,0.0,81.0,2015.0,October,41.0,4.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,E,0.0,No Deposit,240.0,,0,Transient,101.16,0,2,Check-Out,9/2/2015
+4877.0,Resort Hotel,1.0,86.0,2016.0,April,15.0,4.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,241.0,,0,Transient,23.7,0,1,Check-Out,2/20/2016
+1419.0,Resort Hotel,0.0,21.0,2015.0,August,35.0,28.0,2.0,4.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,147.0,,0,Transient-Party,75.44,0,1,Check-Out,7/29/2015
+8901.0,Resort Hotel,1.0,23.0,2016.0,October,43.0,19.0,0.0,3.0,2.0,0.0,0.0,BB,ZAF,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,8.0,0,0,Canceled,9/14/2016
+4862.0,Resort Hotel,0.0,171.0,2016.0,April,15.0,4.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,Non Refund,134.0,,0,Transient-Party,68.0,0,0,Canceled,2/5/2016
+1356.0,Resort Hotel,0.0,2.0,2015.0,August,35.0,26.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,142.0,,0,Transient,92.0,0,0,Canceled,6/2/2015
+9472.0,Resort Hotel,1.0,128.0,2016.0,December,49.0,3.0,0.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,101,Transient-Party,72.45,0,0,Canceled,9/20/2016
+3887.0,Resort Hotel,1.0,2.0,2016.0,February,6.0,5.0,0.0,2.0,2.0,1.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,313.0,,65,Transient-Party,69.0,0,0,Check-Out,11/24/2015
+3811.0,Resort Hotel,1.0,103.0,2016.0,January,2.0,9.0,2.0,6.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,334.0,281.0,0,Transient-Party,40.0,0,0,Check-Out,11/15/2015
+4651.0,Resort Hotel,1.0,69.0,2016.0,March,13.0,24.0,2.0,7.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,177.0,,0,Transient,36.25,0,1,Canceled,2/5/2016
+6499.0,Resort Hotel,1.0,65.0,2016.0,June,25.0,13.0,1.0,4.0,3.0,1.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,315.0,,0,Transient-Party,48.0,0,0,Canceled,9/28/2015
+2948.0,Resort Hotel,1.0,36.0,2015.0,November,45.0,7.0,2.0,6.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,15.0,,0,Transient,44.5,0,0,Canceled,7/17/2015
+2909.0,Resort Hotel,0.0,91.0,2015.0,November,45.0,6.0,2.0,2.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient-Party,38.07,0,0,Check-Out,10/7/2015
+7811.0,Resort Hotel,0.0,374.0,2016.0,August,35.0,27.0,4.0,10.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,108.0,0,0,Canceled,6/27/2016
+3869.0,Resort Hotel,1.0,28.0,2016.0,February,6.0,1.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,4.0,0,1,Check-Out,11/21/2015
+9997.0,Resort Hotel,1.0,0.0,2017.0,February,5.0,4.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,64.8,0,1,Canceled,10/10/2016
+9860.0,Resort Hotel,1.0,108.0,2017.0,January,2.0,14.0,2.0,1.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient-Party,66.02,0,0,Canceled,7/25/2016
+3533.0,Resort Hotel,1.0,131.0,2015.0,December,52.0,22.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,36.0,0,0,Canceled,10/26/2015
+5985.0,Resort Hotel,1.0,8.0,2016.0,May,21.0,18.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient-Party,85.33,0,0,Check-Out,4/25/2016
+6597.0,Resort Hotel,1.0,11.0,2016.0,June,26.0,20.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,86.0,0,0,Canceled,4/8/2016
+2496.0,Resort Hotel,0.0,47.0,2015.0,October,43.0,19.0,1.0,4.0,2.0,0.0,0.0,HB,ESP,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,153.0,0,1,Check-Out,9/14/2015
+1029.0,Resort Hotel,0.0,90.0,2015.0,August,33.0,11.0,0.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,149.4,0,0,Check-Out,7/15/2015
+5908.0,Resort Hotel,0.0,213.0,2016.0,May,21.0,16.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,79.0,0,1,Canceled,4/12/2016
+9031.0,Resort Hotel,1.0,28.0,2016.0,October,44.0,24.0,1.0,2.0,1.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,80.0,0,1,Canceled,1/28/2016
+4701.0,Resort Hotel,1.0,24.0,2016.0,March,14.0,28.0,2.0,5.0,1.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,98.0,0,1,No-Show,2/8/2016
+1525.0,Resort Hotel,1.0,4.0,2015.0,September,36.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Groups,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,241.0,,0,Transient,114.85,0,1,Check-Out,7/29/2015
+7984.0,Resort Hotel,0.0,354.0,2016.0,September,37.0,6.0,2.0,6.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,315.0,,0,Transient,113.05,0,0,Check-Out,8/8/2016
+9203.0,Resort Hotel,1.0,42.0,2016.0,November,45.0,2.0,0.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,124.0,0,1,Canceled,9/24/2016
+4021.0,Resort Hotel,0.0,112.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,Undefined,ESP,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,48.0,0,2,Canceled,11/11/2015
+5102.0,Resort Hotel,0.0,185.0,2016.0,April,17.0,18.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,48.0,0,1,Canceled,2/3/2016
+5126.0,Resort Hotel,0.0,185.0,2016.0,April,17.0,18.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,38.0,,0,Transient-Party,68.4,0,0,Canceled,3/1/2016
+1080.0,Resort Hotel,1.0,8.0,2015.0,August,33.0,13.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,115.0,,0,Contract,107.0,0,0,Check-Out,7/19/2015
+8833.0,Resort Hotel,1.0,181.0,2016.0,October,43.0,16.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient,179.0,0,0,Canceled,8/31/2016
+2615.0,Resort Hotel,0.0,72.0,2015.0,October,43.0,23.0,4.0,7.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,242.0,,0,Transient,114.0,0,0,Canceled,8/13/2015
+3248.0,Resort Hotel,0.0,57.0,2015.0,November,48.0,26.0,0.0,3.0,1.0,0.0,0.0,BB,NLD,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,92.0,1,1,Check-Out,10/22/2015
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,Transient-Party,55.0,0,0,Canceled,1/14/2017
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,0,Canceled,4/25/2016
+1842.0,Resort Hotel,0.0,110.0,2015.0,September,38.0,17.0,1.0,3.0,1.0,0.0,0.0,BB,NLD,Direct,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,147.0,,0,Transient,114.14,0,1,Canceled,6/2/2015
+9122.0,Resort Hotel,1.0,129.0,2016.0,October,44.0,28.0,2.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,C,1.0,No Deposit,171.0,,0,Transient,85.6,0,0,Check-Out,9/30/2016
+8097.0,Resort Hotel,1.0,60.0,2016.0,September,38.0,11.0,2.0,2.0,2.0,0.0,0.0,BB,BRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,15.0,,0,Transient,100.8,0,2,Canceled,7/19/2016
+1835.0,Resort Hotel,0.0,1.0,2015.0,September,38.0,17.0,0.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,240.0,,0,Transient,134.0,0,0,Check-Out,8/17/2015
+867.0,Resort Hotel,1.0,77.0,2015.0,August,31.0,1.0,4.0,6.0,2.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,85.8,1,2,Check-Out,7/10/2015
+6512.0,Resort Hotel,1.0,166.0,2016.0,June,25.0,13.0,3.0,7.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,315.0,,0,Transient-Party,48.0,0,0,Canceled,9/28/2015
+2182.0,Resort Hotel,1.0,170.0,2015.0,October,41.0,4.0,4.0,8.0,2.0,0.0,0.0,BB,CN,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient,141.67,0,2,Canceled,7/31/2015
+2422.0,Resort Hotel,0.0,1.0,2015.0,October,42.0,13.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,131.0,0,0,Check-Out,9/10/2015
+6048.0,Resort Hotel,1.0,98.0,2016.0,May,22.0,23.0,1.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,68.0,,0,Transient,84.0,0,0,Canceled,1/5/2016
+1913.0,Resort Hotel,1.0,58.0,2015.0,September,39.0,21.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,181.94,0,0,Canceled,7/6/2015
+7914.0,Resort Hotel,1.0,30.0,2016.0,September,36.0,2.0,0.0,2.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient-Party,126.0,0,0,Canceled,7/13/2016
+2332.0,Resort Hotel,0.0,14.0,2015.0,October,41.0,9.0,1.0,2.0,2.0,0.0,0.0,HB,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,8.0,,0,Contract,79.5,1,0,Check-Out,9/7/2015
+1851.0,Resort Hotel,1.0,35.0,2015.0,September,38.0,17.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,C,C,0.0,No Deposit,240.0,,0,Transient,154.0,0,2,Check-Out,8/18/2015
+6849.0,Resort Hotel,0.0,292.0,2016.0,July,28.0,6.0,2.0,5.0,3.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,147.0,,0,Transient,53.87,0,2,Check-Out,6/1/2016
+9438.0,Resort Hotel,1.0,25.0,2016.0,November,49.0,28.0,1.0,3.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient-Party,48.0,0,0,Canceled,9/23/2016
+9105.0,Resort Hotel,1.0,206.0,2016.0,October,44.0,27.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,D,D,3.0,No Deposit,243.0,,0,Contract,51.85,0,0,Canceled,8/5/2016
+8575.0,Resort Hotel,1.0,383.0,2016.0,October,41.0,6.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Contract,85.3,0,0,Check-Out,9/10/2016
+6848.0,Resort Hotel,1.0,179.0,2016.0,July,28.0,6.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,6/1/2016
+9537.0,Resort Hotel,1.0,22.0,2016.0,December,50.0,8.0,0.0,3.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,10/17/2016
+9521.0,Resort Hotel,1.0,51.0,2016.0,December,50.0,6.0,0.0,2.0,2.0,2.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,,223.0,0,Transient-Party,72.0,0,0,Check-Out,10/17/2016
+2456.0,Resort Hotel,1.0,9.0,2015.0,October,42.0,17.0,1.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,158.4,0,0,Check-Out,9/14/2015
+5498.0,Resort Hotel,0.0,197.0,2016.0,April,18.0,30.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,110.71,0,0,Canceled,1/11/2016
+4151.0,Resort Hotel,0.0,172.0,2016.0,February,8.0,19.0,2.0,5.0,2.0,0.0,0.0,FB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,38.0,,0,Transient-Party,68.0,0,0,Canceled,11/24/2015
+4410.0,Resort Hotel,0.0,130.0,2016.0,March,12.0,13.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,62.88,0,2,Canceled,9/25/2015
+2447.0,Resort Hotel,0.0,8.0,2015.0,October,42.0,16.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,2.0,No Deposit,,,0,Transient,124.4,0,0,Canceled,9/9/2015
+772.0,Resort Hotel,1.0,70.0,2015.0,July,31.0,28.0,2.0,6.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,82.0,0,1,Canceled,5/6/2015
+6826.0,Resort Hotel,1.0,166.0,2016.0,July,28.0,4.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,118.0,0,1,Canceled,4/23/2016
+7280.0,Resort Hotel,1.0,141.0,2016.0,August,32.0,1.0,1.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,112.0,0,0,Canceled,3/13/2016
+4887.0,Resort Hotel,0.0,200.0,2016.0,April,15.0,5.0,2.0,5.0,1.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,86.4,0,1,Canceled,1/14/2016
+9493.0,Resort Hotel,1.0,183.0,2016.0,December,49.0,3.0,2.0,1.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,223.0,0,Transient-Party,66.0,0,0,Check-Out,10/16/2016
+6809.0,Resort Hotel,1.0,265.0,2016.0,July,28.0,3.0,2.0,5.0,2.0,0.0,1.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,2.0,No Deposit,240.0,,0,Transient,90.0,0,0,Canceled,5/5/2016
+1331.0,Resort Hotel,0.0,58.0,2015.0,August,35.0,24.0,1.0,4.0,2.0,2.0,0.0,FB,PRT,Direct,Direct,0.0,0.0,0.0,C,C,1.0,No Deposit,240.0,,0,Transient,179.1,0,2,Canceled,5/13/2015
+9925.0,Resort Hotel,1.0,33.0,2017.0,January,4.0,25.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,15.0,,0,Transient,78.0,0,2,Canceled,10/19/2016
+2567.0,Resort Hotel,1.0,122.0,2015.0,October,43.0,22.0,1.0,3.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,74.53,0,0,Canceled,5/27/2015
+9265.0,Resort Hotel,1.0,13.0,2016.0,November,46.0,6.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,96.0,,0,Transient,52.0,0,0,Canceled,5/9/2016
+5664.0,Resort Hotel,0.0,212.0,2016.0,May,20.0,8.0,4.0,7.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,67.0,,0,Transient-Party,64.0,0,0,Canceled,1/18/2016
+2363.0,Resort Hotel,0.0,5.0,2015.0,October,41.0,10.0,1.0,1.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,250.0,,0,Transient,98.0,0,1,Check-Out,9/12/2015
+8695.0,Resort Hotel,0.0,337.0,2016.0,October,42.0,9.0,2.0,5.0,1.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,90.0,0,0,Canceled,1/14/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,42.0,0,0,Canceled,9/8/2016
+3587.0,Resort Hotel,0.0,51.0,2015.0,December,52.0,24.0,1.0,3.0,2.0,0.0,0.0,BB,LTU,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,48.0,0,0,Check-Out,11/2/2015
+6231.0,Resort Hotel,0.0,314.0,2016.0,May,23.0,29.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,3.0,No Deposit,71.0,,0,Transient,58.0,0,0,Canceled,3/1/2016
+4293.0,Resort Hotel,1.0,219.0,2016.0,March,10.0,2.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,250.0,,0,Transient,36.0,0,0,Check-Out,12/29/2015
+9447.0,Resort Hotel,1.0,44.0,2016.0,November,49.0,30.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Complementary,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient-Party,55.0,0,0,Canceled,9/23/2016
+1919.0,Resort Hotel,1.0,61.0,2015.0,September,39.0,21.0,1.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,110.0,,0,Transient,184.45,0,0,Canceled,8/10/2015
+7311.0,Resort Hotel,0.0,274.0,2016.0,August,32.0,2.0,0.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,179.0,0,0,Canceled,4/20/2016
+9852.0,Resort Hotel,1.0,78.0,2017.0,January,2.0,13.0,0.0,2.0,2.0,0.0,0.0,BB,ESP,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,240.0,,0,Transient,70.75,0,3,Canceled,10/3/2016
+8384.0,Resort Hotel,1.0,20.0,2016.0,September,40.0,25.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,209.0,0,0,Canceled,6/21/2016
+9060.0,Resort Hotel,1.0,78.0,2016.0,October,44.0,26.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,253.0,,0,Transient,66.6,0,0,Canceled,3/31/2016
+5304.0,Resort Hotel,1.0,143.0,2016.0,April,18.0,24.0,2.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,387.0,,0,Transient-Party,62.0,0,0,Check-Out,3/27/2016
+9898.0,Resort Hotel,1.0,41.0,2017.0,January,3.0,19.0,0.0,2.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,,,0,Transient,44.0,1,0,Check-Out,10/30/2016
+7246.0,Resort Hotel,1.0,26.0,2016.0,July,31.0,30.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,108.9,0,2,Canceled,1/16/2016
+6590.0,Resort Hotel,1.0,163.0,2016.0,June,26.0,19.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Canceled,4/12/2016
+1954.0,Resort Hotel,0.0,137.0,2015.0,September,39.0,23.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,134.0,,0,Transient,120.0,0,0,Canceled,7/27/2015
+8208.0,Resort Hotel,1.0,167.0,2016.0,September,38.0,17.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,254.31,0,0,Canceled,4/21/2016
+9284.0,Resort Hotel,1.0,75.0,2016.0,November,46.0,8.0,0.0,3.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,109.0,0,0,Canceled,8/9/2016
+1724.0,Resort Hotel,0.0,73.0,2015.0,September,37.0,11.0,0.0,1.0,2.0,0.0,0.0,BB,DEU,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,208.0,1,1,Check-Out,8/10/2015
+8218.0,Resort Hotel,1.0,248.0,2016.0,September,39.0,18.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,199.0,0,1,Canceled,7/21/2016
+800.0,Resort Hotel,1.0,30.0,2015.0,July,31.0,30.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,98.0,0,0,Check-Out,7/6/2015
+8280.0,Resort Hotel,0.0,397.0,2016.0,September,39.0,21.0,0.0,4.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,D,1.0,No Deposit,240.0,,0,Transient,241.0,0,0,Canceled,6/5/2016
+8408.0,Resort Hotel,1.0,339.0,2016.0,September,40.0,26.0,3.0,6.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,222.0,0,0,Canceled,4/27/2016
+5202.0,Resort Hotel,0.0,168.0,2016.0,April,17.0,21.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,93.0,0,0,Canceled,3/9/2016
+6925.0,Resort Hotel,1.0,12.0,2016.0,July,29.0,12.0,0.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,139.0,0,1,Canceled,5/14/2016
+8508.0,Resort Hotel,1.0,243.0,2016.0,October,41.0,2.0,2.0,2.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,219.0,0,0,Canceled,7/9/2016
+,,,,,,,,,,,,,,,,,,,,,,,,436.0,,0,Transient-Party,27.0,0,1,No-Show,12/17/2016
+8883.0,Resort Hotel,1.0,71.0,2016.0,October,43.0,18.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,6.0,,0,Transient,85.11,0,0,Canceled,9/5/2016
+7731.0,Resort Hotel,1.0,67.0,2016.0,August,35.0,23.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,177.5,0,0,Canceled,6/13/2016
+6482.0,Resort Hotel,1.0,149.0,2016.0,June,25.0,12.0,2.0,5.0,2.0,0.0,1.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,315.0,,0,Transient-Party,58.0,0,0,Check-Out,5/15/2016
+1341.0,Resort Hotel,0.0,69.0,2015.0,August,35.0,25.0,0.0,3.0,2.0,0.0,0.0,BB,ROU,Online TA,TA/TO,0.0,0.0,0.0,E,G,0.0,No Deposit,240.0,,0,Transient,195.0,0,0,Canceled,6/17/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,55.8,0,2,Canceled,10/21/2016
+4866.0,Resort Hotel,0.0,171.0,2016.0,April,15.0,4.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient,50.0,0,0,Canceled,12/11/2015
+8410.0,Resort Hotel,1.0,339.0,2016.0,September,40.0,26.0,3.0,6.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,222.0,0,0,Canceled,4/27/2016
+4915.0,Resort Hotel,1.0,26.0,2016.0,April,15.0,8.0,2.0,5.0,2.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,177.0,,0,Transient,83.9,0,0,Check-Out,2/26/2016
+3894.0,Resort Hotel,1.0,29.0,2016.0,February,6.0,6.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,313.0,,0,Transient-Party,69.0,0,0,Check-Out,11/24/2015
+5654.0,Resort Hotel,1.0,20.0,2016.0,May,20.0,8.0,2.0,0.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,67.0,,0,Transient-Party,64.0,0,0,Canceled,1/18/2016
+,,,,,,,,,,,,,,,,,,,,,,,,314.0,,0,Transient,56.24,0,0,Canceled,11/15/2016
+8235.0,Resort Hotel,1.0,152.0,2016.0,September,39.0,19.0,1.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,209.0,0,0,Canceled,7/28/2016
+2597.0,Resort Hotel,0.0,0.0,2015.0,October,43.0,23.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,142.0,,0,Contract,71.2,1,0,Check-Out,9/18/2015
+9912.0,Resort Hotel,1.0,124.0,2017.0,January,4.0,22.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,61.52,0,1,Canceled,9/5/2016
+5655.0,Resort Hotel,1.0,59.0,2016.0,May,20.0,8.0,2.0,0.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,67.0,,0,Transient-Party,64.0,0,0,Canceled,1/18/2016
+3051.0,Resort Hotel,0.0,33.0,2015.0,November,46.0,12.0,0.0,3.0,1.0,0.0,0.0,BB,FRA,Corporate,Corporate,0.0,0.0,0.0,A,E,4.0,No Deposit,,274.0,0,Transient-Party,48.0,0,0,Check-Out,10/10/2015
+2094.0,Resort Hotel,0.0,51.0,2015.0,October,40.0,1.0,1.0,3.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,,,0,Transient,231.6,0,1,Canceled,6/3/2015
+3535.0,Resort Hotel,0.0,131.0,2015.0,December,52.0,22.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,36.0,0,0,Check-Out,11/1/2015
+4450.0,Resort Hotel,1.0,17.0,2016.0,March,12.0,19.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,5.0,,0,Transient,221.2,1,0,Check-Out,1/2/2016
+9047.0,Resort Hotel,1.0,0.0,2016.0,October,44.0,25.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,66.0,0,0,Canceled,10/14/2015
+6692.0,Resort Hotel,1.0,170.0,2016.0,June,26.0,25.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,79.2,0,2,Canceled,11/17/2015
+1401.0,Resort Hotel,0.0,30.0,2015.0,August,35.0,28.0,1.0,2.0,2.0,0.0,0.0,HB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,1.0,No Deposit,240.0,,0,Transient-Party,173.0,0,2,Check-Out,7/26/2015
+811.0,Resort Hotel,0.0,75.0,2015.0,July,31.0,30.0,2.0,7.0,2.0,0.0,0.0,BB,CHE,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,156.0,,0,Transient-Party,82.88,0,2,Check-Out,7/9/2015
+3366.0,Resort Hotel,1.0,45.0,2015.0,December,49.0,5.0,2.0,1.0,2.0,0.0,0.0,Undefined,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,58.0,0,0,Check-Out,10/27/2015
+2729.0,Resort Hotel,0.0,1.0,2015.0,October,44.0,29.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,D,0.0,No Deposit,40.0,,0,Contract,55.43,0,1,Check-Out,10/1/2015
+2932.0,Resort Hotel,0.0,51.0,2015.0,November,45.0,7.0,2.0,5.0,2.0,0.0,0.0,BB,FIN,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,250.0,,0,Transient,136.71,0,0,Check-Out,10/10/2015
+5813.0,Resort Hotel,1.0,211.0,2016.0,May,20.0,14.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,42.5,0,0,Check-Out,4/18/2016
+4098.0,Resort Hotel,1.0,112.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,155.0,,0,Transient-Party,0.0,0,0,Check-Out,12/7/2015
+3783.0,Resort Hotel,1.0,132.0,2016.0,January,2.0,5.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,53.0,0,1,Check-Out,11/15/2015
+9528.0,Resort Hotel,1.0,82.0,2016.0,December,50.0,7.0,0.0,4.0,2.0,0.0,0.0,FB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,,223.0,0,Transient-Party,72.0,1,0,Check-Out,10/17/2016
+9940.0,Resort Hotel,1.0,43.0,2017.0,January,4.0,27.0,1.0,2.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,156.0,,0,Transient,32.23,0,1,Canceled,8/2/2016
+2124.0,Resort Hotel,0.0,53.0,2015.0,October,40.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,NLD,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,173.5,0,3,Canceled,8/10/2015
+6562.0,Resort Hotel,1.0,304.0,2016.0,June,25.0,17.0,4.0,10.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,298.0,,0,Transient-Party,86.0,0,0,Canceled,4/8/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,1,Canceled,11/5/2016
+4015.0,Resort Hotel,1.0,111.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,314.0,,0,Transient,46.4,0,0,Check-Out,11/29/2015
+7064.0,Resort Hotel,0.0,305.0,2016.0,July,30.0,18.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,114.0,0,0,Canceled,5/2/2016
+3015.0,Resort Hotel,0.0,40.0,2015.0,November,46.0,11.0,0.0,4.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,2.0,No Deposit,250.0,,0,Transient,68.86,0,1,Canceled,9/25/2015
+6791.0,Resort Hotel,1.0,171.0,2016.0,July,27.0,2.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient-Party,88.0,0,2,Canceled,3/29/2016
+1939.0,Resort Hotel,1.0,1.0,2015.0,September,39.0,22.0,0.0,3.0,2.0,0.0,0.0,BB,DEU,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,250.0,,0,Transient,175.79,0,0,Canceled,7/20/2015
+9563.0,Resort Hotel,1.0,20.0,2016.0,December,51.0,11.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,273.0,,125,Transient-Party,46.36,0,0,Check-Out,10/21/2016
+4043.0,Resort Hotel,1.0,140.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,61.2,0,2,Check-Out,12/3/2015
+3737.0,Resort Hotel,1.0,92.0,2015.0,December,53.0,31.0,2.0,6.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,1.0,No Deposit,314.0,,0,Contract,0.0,0,1,Check-Out,11/9/2015
+4160.0,Resort Hotel,1.0,55.0,2016.0,February,8.0,20.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,38.0,,0,Transient,68.0,0,0,Canceled,11/19/2015
+7703.0,Resort Hotel,1.0,167.0,2016.0,August,35.0,21.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,92.57,0,1,Canceled,10/16/2015
+1729.0,Resort Hotel,0.0,1.0,2015.0,September,37.0,11.0,0.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,246.0,0,1,Check-Out,8/12/2015
+9338.0,Resort Hotel,1.0,0.0,2016.0,November,47.0,14.0,1.0,1.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,315.0,,0,Transient-Party,48.0,0,0,Canceled,3/4/2016
+1506.0,Resort Hotel,0.0,123.0,2015.0,September,36.0,1.0,2.0,5.0,1.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,134.0,0,2,Canceled,5/9/2015
+8278.0,Resort Hotel,1.0,385.0,2016.0,September,39.0,21.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,259.0,0,0,Canceled,4/4/2016
+4078.0,Resort Hotel,1.0,111.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,155.0,,0,Transient-Party,64.0,0,0,Check-Out,12/7/2015
+5662.0,Resort Hotel,1.0,230.0,2016.0,May,20.0,8.0,4.0,6.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,67.0,,0,Transient-Party,64.0,0,0,Canceled,1/18/2016
+,,,,,,,,,,,,,,,,,,,,,,,,,478.0,0,Transient,45.0,0,1,Canceled,11/14/2016
+5436.0,Resort Hotel,1.0,116.0,2016.0,April,18.0,29.0,1.0,2.0,2.0,0.0,1.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,141.0,0,0,Canceled,3/13/2016
+9382.0,Resort Hotel,1.0,18.0,2016.0,November,48.0,21.0,1.0,3.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,68.0,,0,Transient,72.0,0,0,Canceled,12/17/2015
+1981.0,Resort Hotel,0.0,79.0,2015.0,September,39.0,25.0,2.0,3.0,2.0,0.0,0.0,BB,IRL,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,166.0,0,0,Check-Out,8/23/2015
+5161.0,Resort Hotel,0.0,162.0,2016.0,April,17.0,19.0,0.0,3.0,2.0,0.0,0.0,HB,POL,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,48.0,0,0,Canceled,3/4/2016
+6844.0,Resort Hotel,1.0,9.0,2016.0,July,28.0,6.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,2.0,No Deposit,240.0,,0,Transient,66.0,0,0,Canceled,4/26/2016
+3378.0,Resort Hotel,1.0,149.0,2015.0,December,49.0,5.0,2.0,1.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,2.0,,0,Transient,99.5,0,0,Check-Out,10/30/2015
+3384.0,Resort Hotel,1.0,149.0,2015.0,December,49.0,5.0,2.0,1.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,317.0,0,Transient-Party,56.0,0,0,Check-Out,10/26/2015
+9478.0,Resort Hotel,1.0,183.0,2016.0,December,49.0,3.0,2.0,1.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,223.0,0,Transient-Party,68.0,0,0,Check-Out,10/17/2016
+8046.0,Resort Hotel,0.0,355.0,2016.0,September,37.0,7.0,4.0,10.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,126.0,0,2,Canceled,2/15/2016
+4143.0,Resort Hotel,1.0,33.0,2016.0,February,8.0,18.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,38.0,,0,Transient,68.0,0,0,Canceled,11/19/2015
+8065.0,Resort Hotel,1.0,0.0,2016.0,September,37.0,9.0,0.0,1.0,2.0,1.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,E,1.0,No Deposit,240.0,,0,Transient,212.0,0,1,Canceled,7/26/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,68.0,0,2,Canceled,1/1/2017
+6369.0,Resort Hotel,1.0,3.0,2016.0,June,24.0,6.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,G,0.0,No Deposit,240.0,,0,Transient,95.0,0,0,Canceled,4/7/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,48.0,0,0,Canceled,1/1/2017
+6550.0,Resort Hotel,0.0,221.0,2016.0,June,25.0,17.0,2.0,2.0,2.0,0.0,0.0,BB,DEU,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,65.7,0,2,Canceled,12/26/2015
+9282.0,Resort Hotel,1.0,38.0,2016.0,November,46.0,8.0,0.0,3.0,2.0,0.0,0.0,BB,GRC,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,69.0,0,0,Canceled,7/19/2016
+7614.0,Resort Hotel,1.0,127.0,2016.0,August,34.0,16.0,2.0,7.0,2.0,1.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,2.0,No Deposit,,51.0,0,Transient,126.0,0,0,Canceled,7/1/2016
+2280.0,Resort Hotel,0.0,22.0,2015.0,October,41.0,8.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,40.0,,0,Contract,82.88,0,0,Check-Out,9/15/2015
+5862.0,Resort Hotel,1.0,9.0,2016.0,May,21.0,15.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,8.0,,0,Transient,42.3,0,0,Canceled,3/16/2016
+8400.0,Resort Hotel,0.0,542.0,2016.0,September,40.0,26.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,75.0,,0,Transient,143.1,0,0,Canceled,7/29/2016
+9849.0,Resort Hotel,1.0,129.0,2017.0,January,2.0,12.0,2.0,3.0,2.0,0.0,0.0,HB,GBR,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,78.0,0,0,Canceled,8/1/2016
+8787.0,Resort Hotel,0.0,342.0,2016.0,October,42.0,14.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,1.0,,0,Transient,89.0,0,0,Canceled,2/9/2016
+3156.0,Resort Hotel,1.0,36.0,2015.0,November,47.0,20.0,0.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,113.0,0,Transient,82.0,1,1,Check-Out,10/13/2015
+1350.0,Resort Hotel,1.0,84.0,2015.0,August,35.0,25.0,2.0,7.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,152.43,0,3,Check-Out,7/27/2015
+4283.0,Resort Hotel,1.0,45.0,2016.0,March,10.0,1.0,0.0,5.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,50.77,0,2,Canceled,11/16/2015
+8417.0,Resort Hotel,0.0,333.0,2016.0,September,40.0,26.0,3.0,7.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,222.0,0,0,Canceled,4/27/2016
+9710.0,Resort Hotel,1.0,122.0,2016.0,December,53.0,27.0,0.0,4.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,D,D,3.0,No Deposit,240.0,,0,Transient,75.33,0,3,Canceled,10/5/2016
+1614.0,Resort Hotel,1.0,32.0,2015.0,September,37.0,6.0,1.0,0.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,233.0,0,1,Canceled,7/16/2015
+1099.0,Resort Hotel,0.0,38.0,2015.0,August,33.0,14.0,0.0,2.0,3.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,D,1.0,No Deposit,240.0,,0,Transient,120.2,0,1,Check-Out,7/14/2015
+7398.0,Resort Hotel,1.0,148.0,2016.0,August,33.0,7.0,2.0,4.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,106.0,0,1,No-Show,6/21/2016
+9736.0,Resort Hotel,1.0,187.0,2016.0,December,53.0,30.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient-Party,75.0,0,0,Canceled,10/3/2016
+8257.0,Resort Hotel,1.0,244.0,2016.0,September,39.0,20.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,201.0,0,0,Canceled,5/27/2016
+3632.0,Resort Hotel,1.0,126.0,2015.0,December,53.0,28.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,43.2,0,2,Check-Out,11/6/2015
+5636.0,Resort Hotel,1.0,49.0,2016.0,May,19.0,7.0,1.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,0,Transient,72.0,0,0,Canceled,1/14/2016
+4314.0,Resort Hotel,1.0,2.0,2016.0,March,10.0,4.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,314.0,,0,Transient-Party,55.0,0,0,Canceled,12/2/2015
+4606.0,Resort Hotel,1.0,106.0,2016.0,March,13.0,24.0,1.0,3.0,2.0,0.0,0.0,FB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,44.8,0,2,No-Show,1/22/2016
+8026.0,Resort Hotel,1.0,211.0,2016.0,September,37.0,7.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,209.0,0,0,Canceled,7/22/2016
+6588.0,Resort Hotel,0.0,267.0,2016.0,June,26.0,19.0,2.0,4.0,1.0,0.0,0.0,BB,GBR,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/16/2016
+787.0,Resort Hotel,1.0,118.0,2015.0,July,31.0,29.0,1.0,4.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,250.0,,0,Transient,99.67,0,1,Check-Out,7/7/2015
+2217.0,Resort Hotel,1.0,1.0,2015.0,October,41.0,6.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,136.2,0,2,Check-Out,9/4/2015
+2448.0,Resort Hotel,0.0,1.0,2015.0,October,42.0,16.0,0.0,1.0,1.0,0.0,0.0,HB,PRT,Complementary,Direct,0.0,0.0,0.0,E,D,0.0,No Deposit,240.0,,0,Transient,65.7,0,2,Check-Out,9/15/2015
+3074.0,Resort Hotel,0.0,31.0,2015.0,November,46.0,13.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,240.0,,0,Transient,67.0,0,1,Check-Out,10/12/2015
+9827.0,Resort Hotel,1.0,140.0,2017.0,January,1.0,7.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,C,1.0,No Deposit,240.0,,0,Transient,70.0,0,0,Canceled,9/15/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,46.8,0,2,Canceled,10/21/2016
+1145.0,Resort Hotel,1.0,78.0,2015.0,August,33.0,15.0,2.0,6.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,100.86,0,1,Canceled,4/15/2015
+6578.0,Resort Hotel,1.0,164.0,2016.0,June,25.0,18.0,2.0,5.0,2.0,2.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/16/2016
+6314.0,Resort Hotel,1.0,182.0,2016.0,June,23.0,3.0,1.0,2.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/4/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,0,Canceled,10/9/2016
+2382.0,Resort Hotel,1.0,143.0,2015.0,October,41.0,10.0,2.0,2.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,242.0,,0,Transient,198.0,0,2,Canceled,8/11/2015
+1553.0,Resort Hotel,1.0,48.0,2015.0,September,36.0,3.0,2.0,8.0,2.0,2.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,G,I,0.0,No Deposit,241.0,,0,Transient,141.65,0,0,Canceled,6/8/2015
+6747.0,Resort Hotel,0.0,237.0,2016.0,June,27.0,28.0,2.0,8.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,55.0,0,0,Canceled,4/13/2016
+9436.0,Resort Hotel,1.0,8.0,2016.0,November,49.0,27.0,2.0,3.0,2.0,0.0,0.0,BB,ESP,Direct,Direct,0.0,0.0,0.0,F,F,0.0,No Deposit,,,0,Transient-Party,55.0,0,0,Canceled,9/29/2016
+5239.0,Resort Hotel,1.0,83.0,2016.0,April,17.0,22.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,43.33,0,1,Canceled,2/13/2016
+6370.0,Resort Hotel,1.0,3.0,2016.0,June,24.0,6.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,H,0.0,No Deposit,240.0,,0,Transient,48.98,0,2,Check-Out,5/9/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,1,Canceled,10/13/2016
+6412.0,Resort Hotel,1.0,286.0,2016.0,June,24.0,9.0,2.0,3.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Contract,48.75,0,0,Check-Out,5/14/2016
+6980.0,Resort Hotel,1.0,333.0,2016.0,July,29.0,15.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/30/2016
+3050.0,Resort Hotel,1.0,33.0,2015.0,November,46.0,12.0,0.0,3.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,58.0,0,0,Check-Out,10/10/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,67.33,0,3,Canceled,1/25/2017
+8342.0,Resort Hotel,1.0,191.0,2016.0,September,39.0,22.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,6.0,,0,Transient-Party,144.61,0,0,Canceled,1/29/2016
+1947.0,Resort Hotel,0.0,34.0,2015.0,September,39.0,23.0,0.0,2.0,2.0,0.0,0.0,BB,POL,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,,,0,Transient,225.9,0,2,Check-Out,8/24/2015
+6765.0,Resort Hotel,1.0,68.0,2016.0,July,27.0,1.0,0.0,1.0,3.0,1.0,0.0,BB,CN,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,40.0,,0,Contract,58.95,0,0,Check-Out,5/29/2016
+5854.0,Resort Hotel,1.0,9.0,2016.0,May,21.0,15.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,241.0,,0,Transient,65.45,0,0,Canceled,4/4/2016
+3280.0,Resort Hotel,0.0,119.0,2015.0,December,49.0,2.0,8.0,21.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,171.0,,0,Transient,67.56,0,0,Check-Out,11/5/2015
+4886.0,Resort Hotel,0.0,200.0,2016.0,April,15.0,5.0,2.0,5.0,1.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,15.0,,0,Transient,29.0,0,0,Canceled,1/25/2016
+6285.0,Resort Hotel,1.0,43.0,2016.0,June,23.0,1.0,0.0,3.0,3.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,2.0,No Deposit,240.0,,0,Transient,125.0,0,0,Canceled,3/27/2016
+6391.0,Resort Hotel,1.0,95.0,2016.0,June,24.0,7.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Transient,37.56,0,0,Check-Out,5/13/2016
+9124.0,Resort Hotel,1.0,69.0,2016.0,October,44.0,28.0,2.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,F,F,0.0,No Deposit,240.0,,0,Transient,212.86,0,0,Canceled,8/10/2016
+6636.0,Resort Hotel,1.0,247.0,2016.0,June,26.0,22.0,0.0,3.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,49.0,0,0,Canceled,4/4/2016
+9376.0,Resort Hotel,1.0,0.0,2016.0,November,48.0,21.0,0.0,0.0,0.0,0.0,0.0,SC,,Offline TA/TO,TA/TO,0.0,0.0,0.0,P,P,0.0,No Deposit,240.0,,0,Transient,163.75,0,0,Canceled,8/28/2016
+8491.0,Resort Hotel,1.0,157.0,2016.0,October,40.0,1.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,192.0,0,0,Canceled,9/4/2015
+6732.0,Resort Hotel,1.0,172.0,2016.0,June,27.0,27.0,2.0,5.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,55.0,0,0,Canceled,4/13/2016
+1944.0,Resort Hotel,0.0,21.0,2015.0,September,39.0,23.0,0.0,1.0,2.0,0.0,0.0,HB,DEU,Corporate,Corporate,0.0,0.0,0.0,A,C,0.0,No Deposit,5.0,,0,Transient,165.11,0,0,Canceled,4/14/2015
+9526.0,Resort Hotel,1.0,35.0,2016.0,December,50.0,7.0,0.0,4.0,2.0,1.0,0.0,FB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,1.0,No Deposit,223.0,223.0,0,Transient-Party,101.0,0,0,Check-Out,10/17/2016
+8999.0,Resort Hotel,1.0,141.0,2016.0,October,43.0,22.0,2.0,2.0,2.0,0.0,0.0,BB,SWE,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,89.0,0,0,Canceled,7/17/2016
+3582.0,Resort Hotel,0.0,57.0,2015.0,December,52.0,24.0,2.0,6.0,2.0,0.0,0.0,BB,CHE,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,46.0,0,2,Canceled,8/20/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,0,Canceled,9/27/2016
+9467.0,Resort Hotel,1.0,45.0,2016.0,December,49.0,3.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,273.0,,101,Transient-Party,66.28,0,0,Check-Out,10/16/2016
+7372.0,Resort Hotel,1.0,221.0,2016.0,August,32.0,6.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,85.5,0,0,Canceled,1/26/2016
+3584.0,Resort Hotel,1.0,110.0,2015.0,December,52.0,24.0,2.0,7.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,58.0,0,1,Canceled,10/20/2015
+8299.0,Resort Hotel,1.0,197.0,2016.0,September,39.0,21.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,235.57,0,0,Canceled,3/13/2016
+3024.0,Resort Hotel,1.0,40.0,2015.0,November,46.0,11.0,0.0,4.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient-Party,67.5,0,0,Check-Out,10/11/2015
+3003.0,Resort Hotel,1.0,40.0,2015.0,November,46.0,11.0,0.0,4.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,66.3,1,2,Check-Out,10/9/2015
+6785.0,Resort Hotel,1.0,73.0,2016.0,July,27.0,2.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,80.0,0,0,Canceled,4/9/2016
+1546.0,Resort Hotel,0.0,52.0,2015.0,September,36.0,3.0,2.0,7.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,188.0,0,0,Check-Out,7/30/2015
+1696.0,Resort Hotel,1.0,27.0,2015.0,September,37.0,10.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,173.0,0,0,Check-Out,8/14/2015
+6966.0,Resort Hotel,1.0,297.0,2016.0,July,29.0,14.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,1.0,No Deposit,298.0,,0,Transient,85.0,0,0,Check-Out,5/30/2016
+3176.0,Resort Hotel,1.0,122.0,2015.0,November,47.0,20.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,195.0,0,Transient,48.0,0,0,Check-Out,10/13/2015
+7761.0,Resort Hotel,1.0,29.0,2016.0,August,35.0,25.0,0.0,3.0,2.0,0.0,0.0,BB,ITA,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,180.0,0,0,Canceled,6/25/2016
+9879.0,Resort Hotel,1.0,40.0,2017.0,January,3.0,16.0,1.0,2.0,1.0,0.0,0.0,Undefined,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,48.0,0,1,Canceled,10/13/2016
+1920.0,Resort Hotel,0.0,94.0,2015.0,September,39.0,21.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Group,195.0,0,0,Check-Out,8/17/2015
+8871.0,Resort Hotel,1.0,180.0,2016.0,October,43.0,17.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,119.65,0,0,Canceled,7/25/2016
+6569.0,Resort Hotel,1.0,62.0,2016.0,June,25.0,18.0,2.0,2.0,3.0,1.0,0.0,BB,CN,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,5/16/2016
+5643.0,Resort Hotel,0.0,232.0,2016.0,May,19.0,7.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,273.0,,0,Transient,72.0,0,0,Canceled,1/14/2016
+4073.0,Resort Hotel,1.0,112.0,2016.0,February,7.0,12.0,0.0,2.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,155.0,,0,Transient-Party,52.0,0,0,Canceled,12/3/2015
+9725.0,Resort Hotel,1.0,258.0,2016.0,December,53.0,29.0,4.0,8.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,70.75,0,0,Canceled,6/20/2016
+2466.0,Resort Hotel,1.0,92.0,2015.0,October,43.0,18.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,147.0,,0,Transient,57.54,0,0,Check-Out,9/17/2015
+3256.0,Resort Hotel,0.0,15.0,2015.0,November,48.0,27.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Complementary,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,,,47,Transient-Party,76.8,0,0,Check-Out,10/24/2015
+4470.0,Resort Hotel,1.0,151.0,2016.0,March,12.0,19.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,308.0,,122,Transient-Party,84.5,0,0,Check-Out,1/3/2016
+9040.0,Resort Hotel,1.0,86.0,2016.0,October,44.0,24.0,1.0,5.0,2.0,0.0,0.0,HB,DZA,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,66.0,0,0,Canceled,10/14/2015
+1050.0,Resort Hotel,1.0,85.0,2015.0,August,33.0,11.0,0.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,250.0,,0,Transient,139.4,0,1,Check-Out,7/18/2015
+2372.0,Resort Hotel,1.0,143.0,2015.0,October,41.0,10.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,2.0,,0,Contract,91.77,0,0,Check-Out,9/19/2015
+7395.0,Resort Hotel,1.0,98.0,2016.0,August,33.0,7.0,2.0,3.0,2.0,0.0,0.0,HB,DEU,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,115.0,,0,Transient,57.6,0,0,Canceled,6/14/2016
+9042.0,Resort Hotel,1.0,72.0,2016.0,October,44.0,24.0,2.0,5.0,2.0,1.0,0.0,BB,IRL,Direct,Direct,0.0,0.0,0.0,D,D,4.0,No Deposit,,,0,Transient,66.0,0,0,Canceled,10/14/2015
+8079.0,Resort Hotel,1.0,57.0,2016.0,September,37.0,10.0,2.0,3.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,244.5,0,0,Canceled,7/28/2016
+3016.0,Resort Hotel,1.0,40.0,2015.0,November,46.0,11.0,0.0,4.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,171.0,,0,Transient-Party,67.0,0,1,Check-Out,10/14/2015
+8179.0,Resort Hotel,1.0,51.0,2016.0,September,38.0,15.0,1.0,3.0,2.0,1.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,241.0,,0,Transient,202.28,0,0,Canceled,6/14/2016
+9129.0,Resort Hotel,1.0,131.0,2016.0,October,44.0,28.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,96.0,,0,Transient-Party,64.0,0,0,Canceled,5/19/2016
+2655.0,Resort Hotel,1.0,148.0,2015.0,October,43.0,24.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,66.6,0,0,Canceled,8/10/2015
+5826.0,Resort Hotel,1.0,211.0,2016.0,May,20.0,14.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,4/18/2016
+6884.0,Resort Hotel,1.0,180.0,2016.0,July,28.0,9.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,223.0,0,Transient-Party,96.0,0,0,Check-Out,5/29/2016
+1327.0,Resort Hotel,1.0,26.0,2015.0,August,35.0,24.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,142.0,,0,Contract,135.2,0,0,Check-Out,7/29/2015
+1055.0,Resort Hotel,1.0,102.0,2015.0,August,33.0,11.0,2.0,10.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,,,0,Transient,123.0,0,0,Check-Out,7/12/2015
+5480.0,Resort Hotel,1.0,157.0,2016.0,April,18.0,29.0,4.0,10.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,105.22,0,1,Canceled,3/28/2016
+8472.0,Resort Hotel,1.0,132.0,2016.0,September,40.0,30.0,2.0,2.0,1.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,199.0,0,0,No-Show,8/22/2016
+7113.0,Resort Hotel,1.0,99.0,2016.0,July,30.0,22.0,0.0,2.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,240.0,,0,Transient,116.0,0,0,Canceled,4/4/2016
+933.0,Resort Hotel,0.0,136.0,2015.0,August,32.0,6.0,2.0,8.0,3.0,1.0,0.0,BB,IRL,Direct,Direct,0.0,0.0,0.0,G,G,1.0,No Deposit,,,0,Transient,131.0,0,0,Check-Out,7/7/2015
+1031.0,Resort Hotel,1.0,87.0,2015.0,August,33.0,11.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,250.0,,0,Transient,161.0,1,1,Check-Out,7/17/2015
+5402.0,Resort Hotel,1.0,168.0,2016.0,April,18.0,28.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,68.0,,0,Transient,84.0,0,0,Canceled,1/22/2016
+7841.0,Resort Hotel,1.0,160.0,2016.0,August,36.0,29.0,2.0,5.0,2.0,0.0,0.0,HB,LUX,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,227.0,0,1,Canceled,6/13/2016
+4119.0,Resort Hotel,1.0,4.0,2016.0,February,8.0,14.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,D,0.0,No Deposit,134.0,,0,Transient-Party,70.0,0,0,Canceled,11/30/2015
+9043.0,Resort Hotel,1.0,71.0,2016.0,October,44.0,24.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Direct,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,96.0,,0,Transient-Party,70.5,0,1,Check-Out,9/25/2016
+1079.0,Resort Hotel,0.0,23.0,2015.0,August,33.0,13.0,0.0,3.0,2.0,0.0,0.0,BB,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,E,0.0,No Deposit,250.0,,0,Transient,164.57,0,1,Canceled,6/29/2015
+7492.0,Resort Hotel,1.0,87.0,2016.0,August,33.0,12.0,1.0,2.0,2.0,1.0,0.0,BB,BRA,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,155.33,0,1,Canceled,1/25/2016
+,,,,,,,,,,,,,,,,,,,,,,,,38.0,,0,Transient,72.0,0,0,Canceled,10/26/2016
+4831.0,Resort Hotel,0.0,171.0,2016.0,April,15.0,4.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,Non Refund,38.0,,0,Transient,70.0,0,0,Canceled,1/26/2016
+1009.0,Resort Hotel,1.0,47.0,2015.0,August,33.0,10.0,1.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,40.0,,0,Contract,134.73,0,0,Check-Out,7/16/2015
+1016.0,Resort Hotel,0.0,35.0,2015.0,August,33.0,10.0,1.0,5.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,110.5,0,1,Check-Out,7/12/2015
+1875.0,Resort Hotel,1.0,124.0,2015.0,September,38.0,19.0,2.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient-Party,229.0,0,1,Canceled,6/15/2015
+5565.0,Resort Hotel,1.0,199.0,2016.0,May,19.0,2.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,242.0,,0,Transient,51.87,0,1,Canceled,1/20/2016
+2477.0,Resort Hotel,0.0,0.0,2015.0,October,43.0,19.0,1.0,1.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,D,0.0,No Deposit,40.0,,0,Transient,83.5,0,0,Check-Out,9/17/2015
+814.0,Resort Hotel,0.0,42.0,2015.0,July,31.0,31.0,0.0,0.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,I,0.0,No Deposit,156.0,,0,Transient-Party,67.58,0,2,Check-Out,7/9/2015
+2599.0,Resort Hotel,0.0,29.0,2015.0,October,43.0,23.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,D,2.0,No Deposit,240.0,,0,Transient,0.0,0,2,Check-Out,9/17/2015
+8660.0,Resort Hotel,1.0,16.0,2016.0,October,42.0,9.0,2.0,0.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,145.0,0,1,Canceled,2/23/2016
+4147.0,Resort Hotel,1.0,35.0,2016.0,February,8.0,19.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,38.0,,0,Transient,68.0,0,0,Canceled,11/19/2015
+7174.0,Resort Hotel,1.0,196.0,2016.0,July,31.0,25.0,1.0,4.0,2.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,240.0,,0,Transient,63.9,0,2,Canceled,5/27/2016
+5077.0,Resort Hotel,0.0,183.0,2016.0,April,16.0,16.0,1.0,1.0,1.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,242.0,,0,Transient,43.0,0,1,No-Show,3/3/2016
+1636.0,Resort Hotel,0.0,128.0,2015.0,September,37.0,6.0,2.0,5.0,2.0,0.0,0.0,BB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,240.0,,0,Transient,209.6,0,2,Canceled,6/29/2015
+2018.0,Resort Hotel,0.0,47.0,2015.0,September,40.0,27.0,2.0,5.0,2.0,0.0,0.0,HB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,236.0,0,0,Check-Out,8/27/2015
+9645.0,Resort Hotel,1.0,181.0,2016.0,December,52.0,22.0,4.0,9.0,2.0,0.0,0.0,BB,FRA,Online TA,TA/TO,0.0,0.0,0.0,D,D,2.0,No Deposit,241.0,,0,Transient,44.66,0,1,Canceled,9/20/2016
+6615.0,Resort Hotel,1.0,216.0,2016.0,June,26.0,20.0,3.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,315.0,,0,Transient-Party,70.0,0,0,Canceled,5/6/2016
+6466.0,Resort Hotel,1.0,55.0,2016.0,June,25.0,12.0,2.0,0.0,3.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,314.0,,0,Transient,78.56,0,0,Canceled,11/4/2015
+8867.0,Resort Hotel,1.0,62.0,2016.0,October,43.0,17.0,1.0,3.0,2.0,0.0,0.0,HB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,241.0,,0,Transient,102.25,0,0,Canceled,7/4/2016
+2862.0,Resort Hotel,0.0,0.0,2015.0,November,45.0,3.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,74.4,0,0,Check-Out,10/6/2015
+5892.0,Resort Hotel,0.0,213.0,2016.0,May,21.0,16.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,I,0.0,No Deposit,298.0,,0,Transient-Party,86.0,0,0,Canceled,3/18/2016
+1012.0,Resort Hotel,0.0,30.0,2015.0,August,33.0,10.0,1.0,2.0,2.0,0.0,0.0,BB,USA,Online TA,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,250.0,,0,Transient,131.0,0,0,Check-Out,7/11/2015
+7325.0,Resort Hotel,1.0,58.0,2016.0,August,32.0,3.0,0.0,4.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,6.0,,0,Transient,59.6,0,0,Check-Out,7/1/2016
+2103.0,Resort Hotel,0.0,44.0,2015.0,October,40.0,1.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,196.0,,0,Transient,197.7,0,1,Canceled,6/16/2015
+7781.0,Resort Hotel,1.0,228.0,2016.0,August,35.0,26.0,2.0,2.0,3.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,H,H,0.0,No Deposit,240.0,,0,Transient,108.0,0,1,Canceled,2/22/2016
+2874.0,Resort Hotel,1.0,26.0,2015.0,November,45.0,3.0,0.0,4.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,243.0,,0,Contract,55.43,0,0,Check-Out,10/8/2015
+2333.0,Resort Hotel,0.0,8.0,2015.0,October,41.0,9.0,1.0,2.0,1.0,0.0,0.0,BB,IRL,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,135.0,1,2,Check-Out,9/7/2015
+2490.0,Resort Hotel,0.0,47.0,2015.0,October,43.0,19.0,1.0,4.0,2.0,0.0,0.0,HB,ESP,Groups,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,117.9,0,3,Check-Out,9/12/2015
+9148.0,Resort Hotel,1.0,58.0,2016.0,October,44.0,29.0,2.0,4.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,250.0,,0,Transient,162.1,0,0,Canceled,9/5/2016
+7704.0,Resort Hotel,1.0,305.0,2016.0,August,35.0,21.0,2.0,5.0,2.0,1.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,92.57,0,1,Canceled,10/16/2015
+5159.0,Resort Hotel,1.0,32.0,2016.0,April,17.0,19.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,39.1,0,1,No-Show,3/11/2016
+3184.0,Resort Hotel,0.0,24.0,2015.0,November,47.0,21.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,273.0,,0,Transient-Party,79.0,0,0,Check-Out,10/12/2015
+3809.0,Resort Hotel,1.0,110.0,2016.0,January,2.0,9.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,66.0,1,0,Check-Out,11/15/2015
+6267.0,Resort Hotel,1.0,90.0,2016.0,May,23.0,31.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,127.0,0,0,Canceled,4/18/2016
+4467.0,Resort Hotel,0.0,154.0,2016.0,March,12.0,19.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,308.0,,122,Transient,136.5,0,0,Check-Out,1/3/2016
+8955.0,Resort Hotel,1.0,319.0,2016.0,October,43.0,21.0,2.0,5.0,2.0,1.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,40.0,,0,Contract,78.5,0,3,Check-Out,9/29/2016
+6095.0,Resort Hotel,1.0,100.0,2016.0,May,22.0,25.0,0.0,4.0,2.0,0.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,65.0,0,0,Canceled,1/18/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.0,0,0,Canceled,11/22/2016
+1211.0,Resort Hotel,0.0,57.0,2015.0,August,34.0,18.0,2.0,5.0,2.0,2.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,C,C,1.0,No Deposit,240.0,,0,Transient,151.33,0,0,Canceled,6/30/2015
+8658.0,Resort Hotel,1.0,131.0,2016.0,October,42.0,9.0,2.0,0.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,139.0,0,1,Canceled,6/1/2016
+9492.0,Resort Hotel,1.0,183.0,2016.0,December,49.0,3.0,2.0,1.0,2.0,0.0,0.0,FB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,223.0,0,Transient-Party,60.0,0,0,Check-Out,10/15/2016
+8592.0,Resort Hotel,1.0,383.0,2016.0,October,41.0,6.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,150.0,0,0,Canceled,8/29/2016
+2532.0,Resort Hotel,1.0,1.0,2015.0,October,43.0,21.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,70.2,0,1,Canceled,5/16/2015
+7572.0,Resort Hotel,1.0,175.0,2016.0,August,34.0,15.0,1.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Contract,96.0,0,0,Canceled,6/27/2016
+5468.0,Resort Hotel,1.0,87.0,2016.0,April,18.0,29.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,,,0,Transient-Party,73.0,0,0,Canceled,3/4/2016
+4633.0,Resort Hotel,1.0,106.0,2016.0,March,13.0,24.0,1.0,3.0,2.0,0.0,0.0,FB,PRT,Groups,Direct,0.0,0.0,0.0,A,A,0.0,Non Refund,240.0,,0,Transient,46.4,0,2,Canceled,1/11/2016
+2419.0,Resort Hotel,1.0,334.0,2015.0,October,42.0,12.0,2.0,5.0,5.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,0.0,0,1,Check-Out,10/23/2015
+3951.0,Resort Hotel,0.0,103.0,2016.0,February,7.0,9.0,0.0,2.0,2.0,0.0,0.0,HB,FRA,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,342.0,0,Transient-Party,32.0,0,0,Check-Out,11/22/2015
+1447.0,Resort Hotel,0.0,11.0,2015.0,August,36.0,30.0,2.0,0.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,,0,Transient,240.0,0,0,Check-Out,7/30/2015
+4934.0,Resort Hotel,1.0,121.0,2016.0,April,15.0,9.0,2.0,5.0,2.0,0.0,0.0,HB,GBR,Groups,Direct,0.0,0.0,0.0,D,D,0.0,Non Refund,314.0,,0,Transient,65.9,0,0,Check-Out,2/27/2016
+5241.0,Resort Hotel,1.0,83.0,2016.0,April,17.0,22.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,D,D,0.0,Non Refund,240.0,,0,Transient,62.86,0,2,Canceled,2/15/2016
+1225.0,Resort Hotel,1.0,98.0,2015.0,August,34.0,19.0,1.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,164.0,0,2,Check-Out,7/19/2015
+6528.0,Resort Hotel,0.0,268.0,2016.0,June,25.0,15.0,2.0,5.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,1.0,No Deposit,315.0,,0,Transient-Party,0.0,0,0,Check-Out,5/13/2016
+8286.0,Resort Hotel,0.0,397.0,2016.0,September,39.0,21.0,0.0,4.0,2.0,0.0,0.0,BB,CN,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,195.6,0,0,Canceled,8/5/2016
+5266.0,Resort Hotel,1.0,98.0,2016.0,April,17.0,23.0,2.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,0.0,0,1,Canceled,3/21/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,37.8,0,1,Canceled,12/1/2016
+1082.0,Resort Hotel,1.0,8.0,2015.0,August,33.0,13.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,40.0,,0,Contract,119.25,0,0,Check-Out,7/19/2015
+1909.0,Resort Hotel,1.0,185.0,2015.0,September,39.0,21.0,1.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,186.0,0,0,Canceled,6/11/2015
+5858.0,Resort Hotel,1.0,9.0,2016.0,May,21.0,15.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,65.0,0,0,Canceled,4/12/2016
+2157.0,Resort Hotel,1.0,72.0,2015.0,October,40.0,3.0,2.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,250.0,,0,Transient,176.0,1,1,Check-Out,8/30/2015
+7387.0,Resort Hotel,1.0,187.0,2016.0,August,32.0,6.0,4.0,10.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,67.5,0,0,Canceled,3/1/2016
+2265.0,Resort Hotel,0.0,44.0,2015.0,October,41.0,8.0,0.0,3.0,2.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,1.0,No Deposit,250.0,,0,Transient,128.0,0,0,Check-Out,9/6/2015
+7172.0,Resort Hotel,1.0,131.0,2016.0,July,31.0,25.0,1.0,2.0,2.0,2.0,0.0,HB,PRT,Online TA,TA/TO,0.0,0.0,0.0,G,G,0.0,No Deposit,156.0,,0,Transient,56.52,0,2,Check-Out,6/18/2016
+1140.0,Resort Hotel,1.0,98.0,2015.0,August,33.0,15.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,300.0,,0,Transient,153.0,0,0,Check-Out,7/19/2015
+1174.0,Resort Hotel,1.0,151.0,2015.0,August,34.0,16.0,4.0,6.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,241.0,,0,Transient,106.9,0,0,Check-Out,7/21/2015
+2424.0,Resort Hotel,0.0,0.0,2015.0,October,42.0,13.0,0.0,1.0,1.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,84.47,0,0,Canceled,1/22/2015
+3915.0,Resort Hotel,1.0,72.0,2016.0,February,6.0,6.0,2.0,1.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,38.0,,0,Transient-Party,48.0,0,0,Check-Out,11/22/2015
+2387.0,Resort Hotel,0.0,2.0,2015.0,October,42.0,11.0,1.0,0.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,146.0,0,0,Canceled,8/24/2015
+6373.0,Resort Hotel,0.0,282.0,2016.0,June,24.0,6.0,1.0,3.0,2.0,0.0,0.0,BB,CN,Online TA,TA/TO,0.0,0.0,0.0,E,G,0.0,No Deposit,240.0,,0,Transient,46.98,0,2,Check-Out,5/9/2016
+9296.0,Resort Hotel,1.0,135.0,2016.0,November,46.0,10.0,2.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,70.0,0,0,Canceled,8/2/2016
+6566.0,Resort Hotel,1.0,23.0,2016.0,June,25.0,18.0,0.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,298.0,,0,Transient-Party,54.5,0,0,Check-Out,5/16/2016
+6070.0,Resort Hotel,0.0,223.0,2016.0,May,22.0,24.0,1.0,5.0,2.0,0.0,0.0,BB,GBR,Groups,Direct,0.0,0.0,0.0,A,A,1.0,No Deposit,68.0,,0,Transient,84.0,0,0,Canceled,1/5/2016
+7850.0,Resort Hotel,1.0,406.0,2016.0,August,36.0,29.0,4.0,10.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,339.0,,0,Transient,167.2,0,0,Canceled,6/22/2016
+9661.0,Resort Hotel,1.0,91.0,2016.0,December,52.0,23.0,2.0,4.0,2.0,1.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,3.0,No Deposit,240.0,,0,Transient,68.0,0,1,Canceled,10/6/2016
+8252.0,Resort Hotel,1.0,244.0,2016.0,September,39.0,20.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,259.0,0,0,Canceled,6/21/2016
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,87.0,0,0,Canceled,10/6/2016
+9981.0,Resort Hotel,1.0,123.0,2017.0,February,5.0,1.0,4.0,10.0,2.0,0.0,0.0,BB,CN,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,368.0,,0,Transient-Party,38.0,0,0,Canceled,10/21/2016
+2436.0,Resort Hotel,0.0,0.0,2015.0,October,42.0,14.0,0.0,1.0,2.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,40.0,,0,Contract,76.5,0,0,Check-Out,9/22/2015
+3122.0,Resort Hotel,0.0,12.0,2015.0,November,47.0,18.0,2.0,4.0,2.0,0.0,0.0,Undefined,ESP,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,67.5,1,2,Check-Out,10/12/2015
+9231.0,Resort Hotel,1.0,46.0,2016.0,November,45.0,4.0,0.0,2.0,2.0,0.0,0.0,HB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,96.0,,0,Transient,57.6,0,0,Canceled,6/17/2016
+1038.0,Resort Hotel,1.0,83.0,2015.0,August,33.0,11.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,120.6,0,2,Check-Out,7/19/2015
+3237.0,Resort Hotel,1.0,157.0,2015.0,November,48.0,23.0,1.0,3.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,147.0,,0,Transient,81.34,0,0,Check-Out,10/27/2015
+6253.0,Resort Hotel,1.0,76.0,2016.0,May,23.0,31.0,0.0,1.0,2.0,0.0,0.0,BB,BRA,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,127.0,0,0,Canceled,4/18/2016
+5535.0,Resort Hotel,0.0,199.0,2016.0,May,19.0,2.0,1.0,1.0,2.0,0.0,0.0,HB,DEU,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,4/4/2016
+2871.0,Resort Hotel,1.0,26.0,2015.0,November,45.0,3.0,0.0,4.0,2.0,0.0,0.0,BB,PRT,Offline TA/TO,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,243.0,,0,Transient,63.08,0,2,Check-Out,10/8/2015
+8264.0,Resort Hotel,1.0,244.0,2016.0,September,39.0,20.0,2.0,5.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,225.67,0,0,Canceled,7/30/2016
+5178.0,Resort Hotel,1.0,32.0,2016.0,April,17.0,19.0,2.0,5.0,2.0,0.0,0.0,HB,PRT,Groups,Direct,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,43.0,0,1,Canceled,3/3/2016
+8902.0,Resort Hotel,1.0,211.0,2016.0,October,43.0,19.0,0.0,3.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,,,0,Transient,8.0,0,0,Canceled,9/14/2016
+9424.0,Resort Hotel,1.0,232.0,2016.0,November,48.0,26.0,2.0,1.0,2.0,0.0,0.0,BB,PRT,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,Non Refund,,,0,Transient-Party,55.0,0,0,Canceled,9/29/2016
+9003.0,Resort Hotel,1.0,124.0,2016.0,October,43.0,22.0,2.0,3.0,2.0,0.0,0.0,BB,PRT,Groups,Corporate,0.0,0.0,0.0,D,D,1.0,No Deposit,240.0,,0,Transient,90.0,0,1,Canceled,3/4/2016
+3181.0,Resort Hotel,0.0,36.0,2015.0,November,47.0,20.0,1.0,2.0,0.0,0.0,0.0,SC,ESP,Groups,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,,,0,Group,0.0,0,0,Canceled,1/2/2015
+9535.0,Resort Hotel,1.0,38.0,2016.0,December,50.0,8.0,0.0,1.0,1.0,0.0,0.0,BB,ESP,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,223.0,0,Transient-Party,86.0,0,0,Check-Out,10/17/2016
+3000.0,Resort Hotel,1.0,40.0,2015.0,November,46.0,11.0,0.0,4.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,A,0.0,No Deposit,240.0,,0,Transient,58.0,0,3,Canceled,10/5/2015
+4531.0,Resort Hotel,1.0,70.0,2016.0,March,13.0,24.0,0.0,2.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,305.0,,0,Transient,72.0,0,0,Canceled,11/16/2015
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,55.8,0,0,Canceled,10/5/2016
+,,,,,,,,,,,,,,,,,,,,,,,,196.0,,0,Transient,43.0,0,0,Canceled,2/2/2017
+,,,,,,,,,,,,,,,,,,,,,,,,240.0,,0,Transient,82.0,0,1,Canceled,12/5/2016
+8087.0,Resort Hotel,1.0,33.0,2016.0,September,38.0,11.0,1.0,0.0,2.0,0.0,0.0,BB,PRT,Direct,Direct,0.0,0.0,0.0,E,E,0.0,No Deposit,156.0,,0,Transient,141.1,0,0,Canceled,1/11/2016
+2147.0,Resort Hotel,0.0,192.0,2015.0,October,40.0,3.0,2.0,2.0,1.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,A,C,0.0,No Deposit,240.0,,0,Transient,8.0,0,2,Canceled,8/14/2015
+3865.0,Resort Hotel,1.0,3.0,2016.0,February,6.0,1.0,1.0,0.0,1.0,0.0,0.0,BB,PRT,Corporate,Corporate,0.0,0.0,0.0,A,D,0.0,No Deposit,240.0,,0,Transient,54.0,1,0,Check-Out,11/19/2015
+4685.0,Resort Hotel,1.0,45.0,2016.0,March,14.0,28.0,1.0,1.0,2.0,0.0,0.0,BB,PRT,Online TA,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,115.0,,0,Transient,28.1,0,2,Check-Out,2/10/2016
+7449.0,Resort Hotel,1.0,155.0,2016.0,August,33.0,10.0,0.0,4.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,E,E,0.0,No Deposit,40.0,,0,Transient,53.84,0,0,Check-Out,7/1/2016
+3958.0,Resort Hotel,0.0,103.0,2016.0,February,7.0,9.0,0.0,2.0,2.0,0.0,0.0,HB,FRA,Groups,TA/TO,0.0,0.0,0.0,A,A,0.0,No Deposit,,342.0,0,Transient-Party,32.0,0,0,Check-Out,11/22/2015
+2705.0,Resort Hotel,0.0,0.0,2015.0,October,44.0,27.0,0.0,1.0,2.0,0.0,0.0,BB,NLD,Direct,Direct,0.0,0.0,0.0,E,E,1.0,No Deposit,,,0,Transient,73.5,0,0,Canceled,6/15/2015
+8477.0,Resort Hotel,1.0,101.0,2016.0,September,40.0,30.0,2.0,4.0,2.0,0.0,0.0,BB,GBR,Online TA,TA/TO,0.0,0.0,0.0,D,D,0.0,No Deposit,240.0,,0,Transient,229.0,0,1,Canceled,8/22/2016
