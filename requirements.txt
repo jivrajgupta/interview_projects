@@ -7,7 +7,7 @@ python-dotenv
 PyYAML
 scikit_learn
 seaborn
-setuptools==49.2.1
+setuptools
 SQLAlchemy==2.0.23
 streamlit
 xgboost
