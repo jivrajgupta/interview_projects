@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      MLFLOW_TRACKING_URI : https://dagshub.com/jivrajgupta/end_to_end.mlflow
+      MLFLOW_TRACKING_URI : NA
       MLFLOW_TRACKING_USERNAME : jivrajgupta
-      MLFLOW_TRACKING_PASSWORD : eb0a9d1b33d66e01b21f5ec4b8abc153450d7fb5
+      MLFLOW_TRACKING_PASSWORD : NA
       DB_HOST : 'aws.connect.psdb.cloud'
-      DB_USERNAME : 'pd39rlo9gut5zi60nxne'
-      DB_PASSWORD : 'pscale_pw_qCX69h1BlqRo2SsqvxwbQPHcab625HJP5hLIVR5qytw'
-      DB_NAME : 'guptaj'
+      DB_USERNAME : 'NA'
+      DB_PASSWORD : 'NA'
+      DB_NAME : 'NA'
       remote_server_uri : 'https://dagshub.com/jivrajgupta/end_to_end.mlflow'
       CA_CERT_PATH: cacert.pem
 
