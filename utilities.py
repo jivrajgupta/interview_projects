@@ -243,3 +243,66 @@ for experiment_cfg in config["experiments"]:
 # Combine and save results
 final_results = pd.concat(results, ignore_index=True)
 final_results.to_csv("experiment_results.csv", index=False)
+
+
+
+
+global:
+  test_size: 0.2
+  random_state: 42
+  target_column: 'target'
+  scoring:
+    accuracy: accuracy
+    f1: f1_macro
+    precision: precision_macro
+    recall: recall_macro
+
+  scalers:
+    StandardScaler: sklearn.preprocessing.StandardScaler
+    MinMaxScaler: sklearn.preprocessing.MinMaxScaler
+
+  samplers:
+    Oversampler: imblearn.over_sampling.SMOTE
+    Undersampler: imblearn.under_sampling.RandomUnderSampler
+
+  # Feature sets for different iterations
+  feature_sets:
+    full: ['feature_0', 'feature_1', 'feature_2', 'feature_3', 'feature_4', 'feature_5', 'feature_6', 'feature_7', 'feature_8', 'feature_9']
+    age_income: ['age', 'income']
+
+experiments:
+  - iteration_name: model_rf_full
+    model: RandomForestClassifier
+    scaler: StandardScaler
+    sampler: Oversampler
+    feature_set: full
+    hyperparameters:
+      n_estimators: [50, 100]
+      max_depth: [3, 5]
+    outlier_treatment: true
+    filter_condition: "age > 30"
+    comments: "Random Forest with tuning and oversampling"
+  
+  - iteration_name: model_lr_age_income
+    model: LogisticRegression
+    scaler: MinMaxScaler
+    sampler: Undersampler
+    feature_set: age_income
+    hyperparameters:
+      C: [0.1, 1.0]
+      solver: ['liblinear']
+    outlier_treatment: false
+    filter_condition: "income > 40000"
+    comments: "Logistic Regression with undersampling"
+
+  - iteration_name: model_lr_age_income
+    model: LogisticRegression
+    scaler: MinMaxScaler
+    sampler: null
+    feature_set: age_income
+    hyperparameters:
+      C: [0.1, 1.0]
+      solver: ['liblinear']
+    outlier_treatment: false
+    filter_condition: "income > 40000"
+    comments: "Logistic Regression with undersampling"
